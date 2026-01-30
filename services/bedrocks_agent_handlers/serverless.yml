@@ -1,0 +1,76 @@
+service: bedrocks-agent-handlers
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ${opt:region, 'ap-south-1'}
+  stage: ${opt:stage, 'dev'}
+  environment:
+    # AGENT_ID: '1KUBJYCJXE'
+    # AGENT_ALIAS_ID: 'DZ5LRJVA7A'
+    AGENT_ID: 'ASCTXFTLSV'
+    AGENT_ALIAS_ID: '0JNHTQ6HRO'
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - bedrock:InvokeAgent
+            - bedrock:InvokeAgentWithResponseStream
+          Resource:
+            - arn:aws:bedrock:${self:provider.region}:*:agent/*
+            - arn:aws:bedrock:${self:provider.region}:*:agent-alias/*/*
+
+functions:
+  propAgentCaller:
+    handler: handlers/prop_agent_caller.handler
+    description: Invokes AWS Bedrock Agent to process user queries
+    memorySize: 2048
+    timeout: 300
+    events:
+      - http:
+          path: /prop-agent/invoke
+          method: post
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Api-Key
+              - X-Amz-Security-Token
+            allowCredentials: false
+      - http:
+          path: /prop-agent/invoke
+          method: get
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Api-Key
+              - X-Amz-Security-Token
+            allowCredentials: false
+      - http:
+          path: /prop-agent/invoke
+          method: options
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Api-Key
+              - X-Amz-Security-Token
+            allowCredentials: false
+
+plugins:
+  # - serverless-offline
+
+custom:
+  serverless-offline:
+    httpPort: 3000
+

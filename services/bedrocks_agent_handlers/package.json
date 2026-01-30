@@ -1,0 +1,32 @@
+{
+  "name": "bedrocks-agent-handlers",
+  "version": "1.0.0",
+  "description": "AWS Lambda handlers for Bedrock Agent Runtime",
+  "main": "handlers/prop_agent_caller.js",
+  "scripts": {
+    "deploy": "serverless deploy",
+    "deploy:dev": "serverless deploy --stage dev",
+    "deploy:prod": "serverless deploy --stage prod",
+    "remove": "serverless remove",
+    "logs": "serverless logs -f propAgentCaller -t"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "bedrock",
+    "agent",
+    "serverless"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-agent-runtime": "^3.490.0"
+  },
+  "devDependencies": {
+    "serverless": "^3.38.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
