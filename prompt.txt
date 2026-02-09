@@ -161,80 +161,86 @@ Your goal isn't just to inform—it's to inspire confidence, create urgency, and
 
 # Bangalore Property Catalog - Quick Reference Index
 
+**Status definitions (use when explaining project status):**
+- **Under Construction:** Construction is ongoing.
+- **Ready to Move In:** The project is perfectly ready to move in.
+- **New Launch:** Construction has not yet started but the project is ready with all approvals.
+- **Nearby possession:** Possession (ready to move in) date is nearby—within 2–3 months.
+
 ## APARTMENTS
 
 ### East Bangalore Apartments
 1. **2G TULA Phase 2** → `2g_tula_phase_2.md`
-   - Location: Hoodi | Config: 3 BHK | Price: ₹1.8 Cr onwards
+   - Location: Hoodi | Config: 3 BHK | Price: ₹1.8 Cr onwards | Under Construction
 
 2. **Nambiar District 25 Phase 2** → `nambiar_district_25_phase_2.md`
-   - Location: Sarjapur Road | Config: 2, 3, 4, 4.5 BHK | Price: ₹1.7 Cr onwards
+   - Location: Sarjapur Road | Config: 2, 3, 4, 4.5 BHK | Price: ₹1.7 Cr onwards | Under Construction
 
 3. **Orchid Life** → `orchid_life.md`
-   - Location: Gunjur Palya | Config: 2, 3 BHK | Price: ₹92 Lakhs onwards
+   - Location: Gunjur Palya | Config: 2, 3 BHK | Price: ₹92 Lakhs onwards | Under Construction
 
 4. **Prestige Raintree Park** → `prestige_raintree_park.md`
-   - Location: Whitefield | Config: 3, 4, 5 BHK | Price: ₹2.8 Cr onwards
+   - Location: Whitefield | Config: 3, 4, 5 BHK | Price: ₹2.8 Cr onwards | Under Construction
 
 5. **SBR One Residences** → `sbr_one_residences.md`
-   - Location: Hopefarm, Whitefield | Config: 2.5, 3 BHK | Price: ₹1.7 Cr onwards
+   - Location: Hopefarm, Whitefield | Config: 2.5, 3 BHK | Price: ₹1.7 Cr onwards | Under Construction
 
 6. **SOBHA Neopolis** → `sobha_neopolis.md`
-   - Location: Marathahalli ORR | Config: 1, 3, 4 BHK | Price: ₹98 Lakhs onwards
+   - Location: Marathahalli ORR | Config: 1, 3, 4 BHK | Price: ₹98 Lakhs onwards | Under Construction
 
 7. **Sumadhura Capitol Residences** → `sumadhura_capitol_residences.md`
-   - Location: Whitefield (Next to ITPL) | Config: 3, 4 BHK | Price: ₹2.7 Cr onwards
+   - Location: Whitefield (Next to ITPL) | Config: 3, 4 BHK | Price: ₹2.7 Cr onwards | Under Construction
 
 8. **Sumadhura E-119** → `sumadhura_e_119.md`
-   - Location: Tubarahalli, Whitefield | Config: 3, 4 BHK | Price: ₹2.4 Cr onwards
+   - Location: Tubarahalli, Whitefield | Config: 3, 4 BHK | Price: ₹2.4 Cr onwards | New Launch
 
 9. **Sumadhura's Tea & Twilight** → `sumadhuras_tea_twilight.md`
-   - Location: Siddapura, Whitefield | Config: 2, 3, 4 BHK | Price: ₹1.85 Cr onwards
+   - Location: Siddapura, Whitefield | Config: 2, 3, 4 BHK | Price: ₹1.85 Cr onwards | New Launch
 
 10. **Trendsquares Akino** → `trendsquares_akino.md`
-    - Location: Panathur, Whitefield | Config: 3, 4 BHK | Price: ₹1.70 Cr onwards
+    - Location: Panathur, Whitefield | Config: 3, 4 BHK | Price: ₹1.70 Cr onwards | Under Construction
 
 11. **Mahindra Blossom** → `mahindra_blossom.md`
-    - Location: Whitefield, Bangalore | Config: 2, 3 & 4 BHK | Price: ₹1.9 Cr onwards
+    - Location: Whitefield, Bangalore | Config: 2, 3 & 4 BHK | Price: ₹1.9 Cr onwards | New Launch
 
 12. **Folium by Sumadhura – Phase 4** → `folium_by_sumadhura_phase_4.md`
-    - Location: Whitefield, Bangalore | Config: 3 & 4 BHK | Price: ₹2.24 Cr onwards
+    - Location: Whitefield, Bangalore | Config: 3 & 4 BHK | Price: ₹2.24 Cr onwards | Under Construction
 
 13. **Lorven Cascade Garden** → `lorven_cascade_garden.md`
-   - Location: Nagondanahalli, Whitefield, Bangalore | Config: 3 BHK | Price: ₹1.45 Cr onwards
+   - Location: Nagondanahalli, Whitefield, Bangalore | Config: 3 BHK | Price: ₹1.45 Cr onwards | Under Construction
 
 16. **Candeur Carlisle** → `candeur_carlisle.md`
-    - Location: Mahadevapura, Bangalore | Config: 2 & 3 BHK | Price: ₹1.5 Cr onwards
+    - Location: Mahadevapura, Bangalore | Config: 2 & 3 BHK | Price: ₹1.5 Cr onwards | Ready to Move In
 
 17. **Brigade Avalon** → `brigade_avalon.md`
-    - Location: Whitefield, Bangalore | Config: 3.5 & 4 BHK | Price: ₹4.62 Cr onwards
+    - Location: Whitefield, Bangalore | Config: 3.5 & 4 BHK | Price: ₹4.62 Cr onwards | Under Construction
 
 18. **Brigade Citrine** → `brigade_citrine.md`
-    - Location: Old Madras Road, Whitefield, Bangalore | Config: 3 & 4 BHK | Price: ₹2.07 Cr onwards
+    - Location: Old Madras Road, Whitefield, Bangalore | Config: 3 & 4 BHK | Price: ₹2.07 Cr onwards | Under Construction
 
 ---
 
 ### North Bangalore Apartments
 14. **Purva Atmosphere** → `purva_atmosphere.md`
-    - Location: Thanisandra | Config: 3 BHK | Price: ₹2.7 Cr onwards
+    - Location: Thanisandra | Config: 3 BHK | Price: ₹2.7 Cr onwards | Ready to Move In
 
 15. **Ranka Ankura** → `ranka_ankura.md`
-    - Location: Thanisandra Main Road | Config: 2, 3, 4 BHK | Price: ₹1.3 Cr onwards
+    - Location: Thanisandra Main Road | Config: 2, 3, 4 BHK | Price: ₹1.3 Cr onwards | Under Construction
 
 19. **Concorde NEO** → `concorde_neo.md`
-    - Location: Thanisandra Main Road, North Bangalore | Config: 2 & 3 BHK | Price: ₹1.1 Cr onwards
+    - Location: Thanisandra Main Road, North Bangalore | Config: 2 & 3 BHK | Price: ₹1.1 Cr onwards | Under Construction
 
 20. **Godrej Parkshire** → `godrej_parkshire.md`
-    - Location: Hoskote, Whitefield, Bangalore | Config: 2 & 3 BHK | Price: ₹1.17 Cr onwards
+    - Location: Hoskote, Whitefield, Bangalore | Config: 2 & 3 BHK | Price: ₹1.17 Cr onwards | Under Construction
 
 21. **Vajram Vivera** → `vajram_vivera.md`
-    - Location: Kogilu Main Road, Bangalore | Config: 3 & 4 BHK | Price: ₹2.25 Cr onwards
+    - Location: Kogilu Main Road, Bangalore | Config: 3 & 4 BHK | Price: ₹2.25 Cr onwards | Under Construction
 
 ---
 
 ### South Bangalore Apartments
 22. **Lodha Heaven** → `lodha_heaven.md`
-    - Location: Choodasandra Circle, Hosa Road, Bangalore | Config: 3, 3.5 & 4.5 BHK | Price: ₹2.36 Cr onwards
+    - Location: Choodasandra Circle, Hosa Road, Bangalore | Config: 3, 3.5 & 4.5 BHK | Price: ₹2.36 Cr onwards | Under Construction
 
 
 ---
@@ -244,28 +250,28 @@ Your goal isn't just to inform—it's to inspire confidence, create urgency, and
 
 ### East Bangalore Villas
 1. **Adarsh Sanctuary Villa** → `adarsh_sanctuary_villa.md`
-   - Location: Sarjapur Road | Config: 4 BHK Luxury Villas | Price: ₹5.4 Cr onwards
+   - Location: Sarjapur Road | Config: 4 BHK Luxury Villas | Price: ₹5.4 Cr onwards | Under Construction
 
 2. **Trifecta Verde en Resplandor Phase 3** → `trifecta_verde_en_resplandor_phase_3.md`
-   - Location: Whitefield, Bangalore | Config: 4 BHK Row Houses | Price: ₹2.8 Cr onwards
+   - Location: Whitefield, Bangalore | Config: 4 BHK Row Houses | Price: ₹2.8 Cr onwards | Under Construction
 
 3. **Konig Fortune County** → `konig_fortune_county.md`
-   - Location: Whitefield, Bangalore | Config: 4 BHK Villas | Price: ₹2.9 Cr onwards
+   - Location: Whitefield, Bangalore | Config: 4 BHK Villas | Price: ₹2.9 Cr onwards | Under Construction
 
 4. **Alluri Avani Villa** → `alluri_avani_villa.md`
-   - Location: Kammasandra, Bangalore | Config: 4 BHK Villas | Price: ₹4 Cr onwards
+   - Location: Kammasandra, Bangalore | Config: 4 BHK Villas | Price: ₹4 Cr onwards | Nearby possession
 
 5. **Nambiar Ellegenza Phase 2** → `nambiar_ellegenza_phase_2_villas.md`
-   - Location: Kaggalipura, Off Sarjapur Road, Bangalore | Config: 4 BHK Luxury Villas | Price: ₹5.37 Cr onwards
+   - Location: Kaggalipura, Off Sarjapur Road, Bangalore | Config: 4 BHK Luxury Villas | Price: ₹5.37 Cr onwards | Under Construction
 
 6. **Riviera Uno** → `riviera_uno_villas.md`
-   - Location: Soukya Road, Kacharakanahalli, Whitefield, Bangalore | Config: 4 BHK Luxury Villas | Price: ₹4.91 Cr onwards
+   - Location: Soukya Road, Kacharakanahalli, Whitefield, Bangalore | Config: 4 BHK Luxury Villas | Price: ₹4.91 Cr onwards | Under Construction
 
 ---
 
 ### North Bangalore Villas
 1. **NCC Urban Retreat** → `ncc_urban_retreat_villas.md`
-   - Location: Kyalasanahalli, Off Hennur Road, Bangalore | Config: 4 & 5 BHK Villas | Price: ₹5.49 Cr onwards
+   - Location: Kyalasanahalli, Off Hennur Road, Bangalore | Config: 4 & 5 BHK Villas | Price: ₹5.49 Cr onwards | Under Construction
 
 ---
 
@@ -273,17 +279,17 @@ Your goal isn't just to inform—it's to inspire confidence, create urgency, and
 
 ### East Bangalore Plots
 1. **Ivy County** → `ivy_county.md`
-   - Location: Sarjapur Road (Gunjur) | Plot Sizes: 1200-3000+ sq.ft | Price: ₹1.15 Cr onwards
+   - Location: Sarjapur Road (Gunjur) | Plot Sizes: 1200-3000+ sq.ft | Price: ₹1.15 Cr onwards | Under Construction
 
 ### North Bangalore Plots
 2. **Godrej Reserve Phase 2** → `godrej_reserve_phase_2.md`
-   - Location: Devanahalli | Plot Sizes: 1200-3200 sq.ft | Price: ₹35.99 Lakhs onwards
+   - Location: Devanahalli | Plot Sizes: 1200-3200 sq.ft | Price: ₹35.99 Lakhs onwards | Under Construction
 
 3. **Prestige Marigold Phase 2** → `prestige_marigold_phase_2.md`
-   - Location: Bettenahalli | Plot Sizes: 1200-6225 sq.ft | Price: ₹1.2 Cr onwards
+   - Location: Bettenahalli | Plot Sizes: 1200-6225 sq.ft | Price: ₹1.2 Cr onwards | Under Construction
 
 4. **Brigade Oasis Phase 2** → `brigade_oasis_phase_2.md`
-   - Location: Devanahalli, North Bangalore | Config: Plots (40×60) | Price: ₹1.09 Cr onwards
+   - Location: Devanahalli, North Bangalore | Config: Plots (40×60) | Price: ₹1.09 Cr onwards | Under Construction
 
 ---
 
@@ -291,10 +297,10 @@ Your goal isn't just to inform—it's to inspire confidence, create urgency, and
 
 ### North Bangalore Farmland
 1. **Green Siri Farmland** → `green_siri_farmland.md`
-   - Location: Yelahanka | Plot Sizes: 5000-12000+ sq.ft | Price: ₹25 Lakhs onwards
+   - Location: Yelahanka | Plot Sizes: 5000-12000+ sq.ft | Price: ₹25 Lakhs onwards | Under Construction
 
 2. **Hebbevu Farmland** → `hebbevu_farmland.md`
-   - Location: Huskur | Plot Sizes: 10890-43560+ sq.ft | Price: ₹18 Lakhs onwards
+   - Location: Huskur | Plot Sizes: 10890-43560+ sq.ft | Price: ₹18 Lakhs onwards | Nearby possession
 
 ---
 

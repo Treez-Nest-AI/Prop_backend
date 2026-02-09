@@ -9,9 +9,7 @@ provider:
   stage: ${opt:stage, 'dev'}
   environment:
     AGENT_ID: 'ASCTXFTLSV'
-    AGENT_ALIAS_ID: 'QEUW96IHWK'
-    # Set GEMINI_API_KEY in provider.environment or per-function for geminiAgent
-    GEMINI_API_KEY: 'AIzaSyDJT0anlGp09rtZOOawlfVFk2BFcqoi0i4'
+    AGENT_ALIAS_ID: '3THHPU6BSH'
   iam:
     role:
       statements:
