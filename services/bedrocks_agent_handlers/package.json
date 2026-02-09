@@ -20,7 +20,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-bedrock-agent-runtime": "^3.490.0"
+    "@aws-sdk/client-bedrock-agent-runtime": "^3.490.0",
+    "@google/generative-ai": "^0.24.0"
   },
   "devDependencies": {
     "serverless": "^3.38.0"

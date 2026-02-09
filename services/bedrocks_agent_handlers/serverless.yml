@@ -8,10 +8,10 @@ provider:
   region: ${opt:region, 'ap-south-1'}
   stage: ${opt:stage, 'dev'}
   environment:
-    # AGENT_ID: '1KUBJYCJXE'
-    # AGENT_ALIAS_ID: 'DZ5LRJVA7A'
     AGENT_ID: 'ASCTXFTLSV'
-    AGENT_ALIAS_ID: '0JNHTQ6HRO'
+    AGENT_ALIAS_ID: 'QEUW96IHWK'
+    # Set GEMINI_API_KEY in provider.environment or per-function for geminiAgent
+    GEMINI_API_KEY: 'AIzaSyDJT0anlGp09rtZOOawlfVFk2BFcqoi0i4'
   iam:
     role:
       statements:
@@ -65,6 +65,43 @@ functions:
               - Authorization
               - X-Api-Key
               - X-Amz-Security-Token
+            allowCredentials: false
+
+  geminiAgent:
+    handler: handlers/gemini_agent.handler
+    description: Property consultant chat using Google Gemini
+    memorySize: 1024
+    timeout: 60
+    events:
+      - http:
+          path: /prop-agent/gemini/chat
+          method: post
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - Accept
+              - Authorization
+              - X-Amz-Date
+              - X-Api-Key
+              - X-Amz-Security-Token
+              - X-Requested-With
+              - Origin
+            allowCredentials: false
+      - http:
+          path: /prop-agent/gemini/chat
+          method: options
+          cors:
+            origin: '*'
+            headers:
+              - Content-Type
+              - Accept
+              - Authorization
+              - X-Amz-Date
+              - X-Api-Key
+              - X-Amz-Security-Token
+              - X-Requested-With
+              - Origin
             allowCredentials: false
 
 plugins:
