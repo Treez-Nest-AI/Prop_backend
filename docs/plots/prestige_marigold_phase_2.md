@@ -8,6 +8,7 @@ developer: Prestige Group
 price_starting_from_inr: 12000000
 price_label: 1.2 Cr onwards
 plot_size_range_sqft: 1200-6225
+ratings: 4.1
 ```
 ---
 

@@ -8,6 +8,7 @@ developer: Trendsquares Constructions
 price_starting_from_inr: 17000000
 price_label: 1.70 Cr onwards
 unit_size_range_sqft: 1580-2010
+ratings: 3.7
 ```
 
 ---

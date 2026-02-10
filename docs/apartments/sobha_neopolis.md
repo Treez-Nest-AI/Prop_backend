@@ -6,6 +6,7 @@ location: Marathahalli ORR / Whitefield, Bangalore
 zone: East Bangalore
 developer: SOBHA Limited
 price_starting_from_inr: 9800000
+ratings: 3.2
 ```
 ---
 

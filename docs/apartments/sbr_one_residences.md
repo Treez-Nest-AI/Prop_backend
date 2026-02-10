@@ -6,6 +6,7 @@ location: Hopefarm, Whitefield, Bangalore
 zone: East Bangalore
 developer: SBR Group
 price_starting_from_inr: 17000000
+ratings: 4.3
 ```
 ---
 

@@ -8,6 +8,7 @@ developer: Lodha Group
 price_starting_from_inr: 23600000
 price_label: 2.36 Cr onwards
 unit_size_range_sqft: 1076-2225
+ratings: 4.0
 ```
 
 ---

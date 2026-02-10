@@ -8,6 +8,7 @@ developer: Nambiar Builders
 price_starting_from_inr: 17000000
 price_label: 1.7 Cr onwards
 unit_size_range_sqft: 1245-2995
+ratings: 4.6
 ```
 ---
 

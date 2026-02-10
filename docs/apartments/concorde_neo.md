@@ -8,6 +8,7 @@ developer: Concorde Group
 price_starting_from_inr: 11000000
 price_label: 1.1 Cr onwards
 unit_size_range_sqft: 1107-1539
+ratings: 4.6
 ```
 ---
 

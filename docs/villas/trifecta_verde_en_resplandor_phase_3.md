@@ -8,6 +8,7 @@ developer: Trifecta Projects
 price_starting_from_inr: 28000000
 price_label: 2.8 Cr onwards
 unit_size_range_sqft: 2914-3934
+ratings: 4.2
 ```
 ---
 

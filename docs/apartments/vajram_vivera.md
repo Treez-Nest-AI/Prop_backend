@@ -8,6 +8,7 @@ developer: Vajram Group
 price_starting_from_inr: 22500000
 price_label: 2.25 Cr onwards
 unit_size_range_sqft: 1573-2406
+ratings: 4.7
 ```
 
 ---

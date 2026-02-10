@@ -6,6 +6,7 @@ location: Thanisandra Main Road, Bangalore
 zone: North Bangalore
 developer: Ranka Group
 price_starting_from_inr: 13000000
+ratings: 3.8
 ```
 ---
 

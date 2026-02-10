@@ -8,6 +8,7 @@ developer: Orchid Developers
 price_starting_from_inr: 9200000
 price_label: 92 Lakhs onwards
 unit_size_range_sqft: 811-1863
+ratings: 3.8
 ```
 ---
 

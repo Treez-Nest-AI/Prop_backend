@@ -8,6 +8,7 @@ developer: Brigade Group
 price_starting_from_inr: 10900000
 price_label: 1.09 Cr onwards
 plot_size_range_sqft: 1575-2252
+ratings: 3.9
 ```
 ---
 

@@ -8,6 +8,7 @@ developer: Godrej Properties
 price_starting_from_inr: 11700000
 price_label: 1.17 Cr onwards
 unit_size_range_sqft: 1050-1750
+ratings: 4.4
 ```
 
 ---

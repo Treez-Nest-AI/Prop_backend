@@ -9,6 +9,7 @@ developer: 2G Developers
 price_starting_from_inr: 18000000
 price_label: 1.8 Cr onwards
 unit_size_range_sqft: 1827-1971
+ratings: 4.2
 ```
 
 ---

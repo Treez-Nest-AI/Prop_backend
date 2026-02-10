@@ -8,6 +8,7 @@ developer: Lorven Group
 price_starting_from_inr: 14500000
 price_label: 1.45 Cr onwards
 unit_size_range_sqft: 1325-1785
+ratings: 4.4
 ```
 
 ---

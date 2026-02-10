@@ -8,6 +8,7 @@ developer: Sumadhura Group
 price_starting_from_inr: 24000000
 price_label: 2.4 Cr onwards
 unit_size_range_sqft: 1705-2730
+ratings: 4.4
 ```
 
 ---

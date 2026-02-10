@@ -9,6 +9,7 @@ price_starting_from_inr: 29000000
 price_label: 2.9 Cr onwards
 unit_size_range_sqft: 2600-4400
 approvals: BMRDA, RERA
+ratings: 4.6
 ```
 ---
 

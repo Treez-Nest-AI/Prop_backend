@@ -8,6 +8,7 @@ developer: Ivy Group
 price_starting_from_inr: 11500000
 price_label: 1.15 Cr onwards
 plot_size_range_sqft: 1200-3000+
+ratings: 4.2
 ```
 ---
 

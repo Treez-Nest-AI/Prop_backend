@@ -9,6 +9,7 @@ price_starting_from_inr: 1800000
 price_label: 18 Lakhs onwards
 plot_size_range_sqft: 10890-43560+
 land_use: Agricultural / Managed Farmland
+ratings: 4.0
 ```
 ---
 

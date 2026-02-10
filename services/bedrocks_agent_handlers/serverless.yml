@@ -9,7 +9,7 @@ provider:
   stage: ${opt:stage, 'dev'}
   environment:
     AGENT_ID: 'ASCTXFTLSV'
-    AGENT_ALIAS_ID: '3THHPU6BSH'
+    AGENT_ALIAS_ID: '1TOXNJ1NBQ'
   iam:
     role:
       statements:

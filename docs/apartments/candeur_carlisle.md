@@ -9,6 +9,7 @@ developer: Candeur Developers
 price_starting_from_inr: 15000000
 price_label: 1.5 Cr onwards
 unit_size_range_sqft: 1135-1460
+ratings: 4.0
 ```
 ---
 

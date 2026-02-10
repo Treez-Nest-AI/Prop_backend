@@ -8,6 +8,7 @@ developer: Godrej Properties
 price_starting_from_inr: 3599000
 price_label: 35.99 Lakhs onwards
 plot_size_range_sqft: 1200-3200
+ratings: 4.0
 ```
 ---
 

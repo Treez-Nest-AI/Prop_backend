@@ -7,6 +7,7 @@ zone: East Bangalore
 developer: Prestige Group
 price_starting_from_inr: 28000000
 landmark: Varthur Lake
+ratings: 3.4
 ```
 ---
 

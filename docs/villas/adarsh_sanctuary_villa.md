@@ -8,6 +8,7 @@ developer: Adarsh Group
 price_starting_from_inr: 54000000
 price_label: 5.4 Cr onwards
 unit_size_range_sqft: 3492-4228
+ratings: 4.2
 ```
 ---
 

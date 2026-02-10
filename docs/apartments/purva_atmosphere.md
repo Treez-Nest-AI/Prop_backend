@@ -6,6 +6,7 @@ location: Thanisandra, Bangalore
 zone: North Bangalore
 developer: Puravankara
 price_starting_from_inr: 27000000
+ratings: 4.2
 ```
 ---
 

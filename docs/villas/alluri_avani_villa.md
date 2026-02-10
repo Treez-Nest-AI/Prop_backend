@@ -8,6 +8,7 @@ developer: Alluri Developers
 price_starting_from_inr: 40000000
 price_label: 4 Cr onwards
 unit_size_range_sqft: 3563-4645
+ratings: 4.4
 ```
 ---
 

@@ -8,6 +8,7 @@ developer: Mahindra Lifespaces
 price_starting_from_inr: 19000000
 price_label: 1.9 Cr onwards
 unit_size_range_sqft: 931-1689
+ratings: 4.2
 ```
 ---
 

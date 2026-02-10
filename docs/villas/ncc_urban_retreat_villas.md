@@ -8,6 +8,7 @@ developer: NCC Urban
 price_starting_from_inr: 54900000
 price_label: 5.49 Cr onwards
 unit_size_range_sqft: 3565-4460
+ratings: 5.0
 ```
 
 ---
