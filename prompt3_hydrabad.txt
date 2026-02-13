@@ -179,70 +179,121 @@ Your goal isn't just to inform—it's to inspire confidence, create urgency, and
 1. **Anvita High 9** → `anvita_high_9.md`
    - Location: Kondapur | Config: 2, 3 BHK | Price: ₹1.20 Cr onwards | Under Construction
 
-2. **Brigade Gateway** → `brigade_gateway 1.md`
+2. **ASBL Loft** → `asbl_loft.md`
+   - Location: Gachibowli | Config: 3 BHK | Price: ₹1.94 Cr onwards | Under Construction
+
+3. **Brigade Gateway** → `brigade_gateway 1.md`
    - Location: Kokapet | Config: 3, 4 BHK & 5, 6 BHK Duplexes | Price: ₹4.60 Cr onwards | Under Construction
- 
-3. **Candeur Crescent** → `candeur_crescent 1.md`
+
+4. **Candeur Crescent** → `candeur_crescent 1.md`
    - Location: Serilingampally | Config: 2.5, 3 BHK | Price: ₹1.85 Cr onwards | Under Construction
 
-4. **Candeur Lakescape** → `candeur_lakescape.md`
+5. **Candeur Lakescape** → `candeur_lakescape.md`
    - Location: Kondapur | Config: 2, 3 BHK | Price: ₹1.35 Cr onwards | Under Construction
 
-5. **Candeur Skyline** → `candeur_skyline 1.md`
+6. **Candeur Skyline** → `candeur_skyline 1.md`
    - Location: Puppalaguda, Financial District | Config: 4 BHK Sky Apartments | Price: ₹8.5 Cr onwards | Under Construction
 
-6. **Godrej Madison Avenue** → `godrej_madison_avenue 1.md`
+7. **Casagrand Windsor Court** → `casagrand_windsor_court.md`
+   - Location: Tellapur | Config: 3, 4 BHK | Price: ₹1.20 Cr onwards | Under Construction
+
+8. **Cybercity Stone Ridge** → `cybercity_stone_ridge.md`
+   - Location: Kokapet | Config: 2, 3 BHK | Price: ₹1.20 Cr onwards | Under Construction
+
+9. **Godrej Madison Avenue** → `godrej_madison_avenue 1.md`
    - Location: Kokapet | Config: 3, 4 BHK | Price: ₹2.99 Cr onwards | Under Construction
 
-7. **Godrej Regal Pavilion** → `godrej_regal_pavilion 1.md`
-   - Location: Rajendra Nagar | Config: 3, 3.5, 4 BHK | Price: ₹1.65 Cr onwards | Under Construction
+10. **Godrej Regal Pavilion** → `godrej_regal_pavilion 1.md`
+    - Location: Rajendra Nagar | Config: 3, 3.5, 4 BHK | Price: ₹1.65 Cr onwards | Under Construction
 
-8. **Pacifica Hillcrest Phase 2** → `pacifica_hillcrest_phase_2.md`
-   - Location: Financial District | Config: 2, 3 BHK | Price: ₹85 Lakhs onwards | Under Construction
+11. **Hallmark Treasor** → `hallmark_treasor.md`
+    - Location: Kokapet / Narsingi | Config: 2, 3 BHK | Price: ₹1.25 Cr onwards | Under Construction
 
-9. **Rajapushpa Imperia** → `rajapushpa_imperia.md`
-   - Location: Tellapur | Config: 2, 3, 4 BHK | Price: ₹1.25 Cr onwards | Under Construction
+12. **Pacifica Hillcrest Phase 2** → `pacifica_hillcrest_phase_2.md`
+    - Location: Financial District | Config: 2, 3 BHK | Price: ₹85 Lakhs onwards | Under Construction
 
-10. **Rajapushpa Pristinia** → `rajapushpa_pristinia.md`
+13. **Prestige Clairemont** → `prestige_clairemont.md`
+    - Location: Neopolis, Kokapet | Config: 3, 4 BHK | Price: ₹2.10 Cr onwards | Under Construction
+
+14. **Prestige Vaishnaoi Rainbow Waters** → `prestige_vaishnaoi_rainbow_waters.md`
+    - Location: Financial District | Config: 4, 5 BHK | Price: ₹5.50 Cr onwards | Under Construction
+
+15. **Rajapushpa Casa Luxura** → `rajapushpa_casa_luxura.md`
+    - Location: Kokapet | Config: 4 BHK | Price: ₹7.45 Cr onwards | Under Construction
+
+16. **Rajapushpa Imperia** → `rajapushpa_imperia.md`
+    - Location: Tellapur | Config: 2, 3, 4 BHK | Price: ₹1.25 Cr onwards | Under Construction
+
+17. **Rajapushpa Pristinia** → `rajapushpa_pristinia.md`
     - Location: Kokapet | Config: 2, 3 BHK | Price: ₹1.25 Cr onwards | Under Construction
 
-11. **Rajapushpa Provincia** → `rajapushpa_provincia.md`
+18. **Rajapushpa Provincia** → `rajapushpa_provincia.md`
     - Location: Narsingi | Config: 2, 3 BHK | Price: ₹1.25 Cr onwards | Under Construction
 
-12. **RV Vibhavam** → `rv_vibhavam.md`
+19. **Ramky One Odyssey** → `ramky_one_odyssey.md`
+    - Location: Narsingi | Config: 2, 3 BHK | Price: ₹1.10 Cr onwards | Under Construction
+
+20. **RV Vibhavam** → `rv_vibhavam.md`
     - Location: Kondapur | Config: 2, 3 BHK | Price: ₹1.10 Cr onwards | Under Construction
 
-13. **Solitaire Unity** → `solitaire_unity.md`
+21. **Solitaire Unity** → `solitaire_unity.md`
     - Location: Kondapur | Config: 2, 2.5, 3 BHK | Price: ₹1.06 Cr onwards | Under Construction
 
-14. **Sumadhura Gardens By The Brook Phase 2** → `sumadhura_gardens_by_the_brook_phase_2 1.md`
+22. **Srias IWA** → `srias_iwa.md`
+    - Location: Kondapur | Config: 2, 3.5 BHK | Price: ₹1.78 Cr onwards | Under Construction
+
+23. **Sukhii Ubuntu** → `sukhii_ubuntu.md`
+    - Location: Bachupally (North-West Hyderabad) | Config: 2, 3 BHK | Price: ₹96 Lakhs onwards | Under Construction
+
+24. **Sumadhura Gardens By The Brook Phase 2** → `sumadhura_gardens_by_the_brook_phase_2 1.md`
     - Location: Gaganpahad, Shamshabad | Config: 2, 2.5, 3 BHK | Price: ₹99 Lakhs onwards | Under Construction
 
-15. **Sumadhura Palais Royale** → `sumadhura_palais_royale 1.md`
+25. **Sumadhura Palais Royale** → `sumadhura_palais_royale 1.md`
     - Location: Puppalaguda, Financial District | Config: 4, 5 BHK | Price: ₹5.6 Cr onwards | Under Construction
 
-16. **Sunrise Orchard** → `sunrise_orchard.md`
+26. **Sunrise Orchard** → `sunrise_orchard.md`
     - Location: Hyderabad | Config: 2, 3, 3.5 BHK | Price: ₹95 Lakhs onwards | Under Construction
 
-17. **The Olympus by Sumadhura** → `the_olympus_by_sumadhura 1.md`
+27. **The Olympus by Sumadhura** → `the_olympus_by_sumadhura 1.md`
     - Location: Nanakramguda, Financial District | Config: 3, 4 BHK | Price: ₹2 Cr onwards | Under Construction
 
 ### South Hyderabad Apartments
-18. **The Prestige City** → `the_prestige_city 1.md`
+28. **The Prestige City** → `the_prestige_city 1.md`
     - Location: Rajendra Nagar, Budvel | Config: 2.5, 3, 3.5, 4 BHK | Price: ₹1.50 Cr onwards | Under Construction
 
 ## VILLAS
 
 ### West Hyderabad Villas
-1. **Cybercity Villa Verde** → `cybercity_villa_verde.md`
+1. **Anithara Aura Villas** → `anithara_aura_villas.md`
+   - Location: Isnapur / Patancheru | Config: 3 BHK Villas | Price: ₹1.16 Cr onwards | Under Construction
+
+2. **Bellagio at The Prestige City** → `bellagio_at_the_prestige_city_villas.md`
+   - Location: Rajendra Nagar (South-West) | Config: 5 BHK Villas | Price: ₹11 Cr onwards | Under Construction
+
+3. **Cybercity Villa Verde** → `cybercity_villa_verde.md`
    - Location: Kokapet | Config: 4, 5 BHK Villas | Price: ₹4.50 Cr onwards | Under Construction
 
-2. **Hallmark Floresta** → `hallmark_floresta.md`
+4. **Hallmark Floresta** → `hallmark_floresta.md`
    - Location: Kokapet | Config: 4, 5 BHK Villas | Price: ₹4.50 Cr onwards | Under Construction
 
-3. **Rajapushpa Serene Dale** → `rajapushpa_serene_dale.md`
-   - Location: Financial District / Kokapet | Config: 4, 5 BHK Villas | Price: ₹4.50 Cr onwards | Under Construction
+5. **Indis Myra Villas** → `indis_myra_villas.md`
+   - Location: Tellapur | Config: 4, 5 BHK Villas | Price: ₹3.50 Cr onwards | Under Construction
+
+6. **Konak Villas** → `konak_villas.md`
+   - Location: Tellapur / Kokapet Belt | Config: 4, 5 BHK, Luxury Large Villas | Price: ₹4.95 Cr onwards | Under Construction
+
+7. **Lucent Villas** → `lucent_villas.md`
+   - Location: Hyderabad | Config: 4 BHK Villas | Price: ₹6.75 Cr onwards | Under Construction
+
+8. **Orchid by Raichandani** → `orchid_by_raichandani.md`
+   - Location: West Hyderabad | Config: 4, 5 BHK Villas | Price: ₹3.52 Cr onwards | Under Construction
+
+9. **Praneeta Amity Villas** → `praneeta_amity_villas.md`
+   - Location: Bachupally (North-West) | Config: 4, 5 BHK Villas | Price: ₹2.96 Cr onwards | Under Construction
+
+10. **Rajapushpa Serene Dale** → `rajapushpa_serene_dale.md`
+    - Location: Financial District / Kokapet | Config: 4, 5 BHK Villas | Price: ₹4.50 Cr onwards | Under Construction
 
 ### East Hyderabad Villas
-4. **The Spectrum by Ramky** → `the_spectrum_by_ramky 1.md`
-   - Location: Korremula, East Hyderabad | Config: 4 BHK Triplex Villas | Price: ₹1.95 Cr onwards | Under Construction
+11. **The Spectrum by Ramky** → `the_spectrum_by_ramky 1.md`
+    - Location: Korremula, East Hyderabad | Config: 4 BHK Triplex Villas | Price: ₹1.95 Cr onwards | Under Construction
