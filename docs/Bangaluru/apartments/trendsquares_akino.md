@@ -9,6 +9,11 @@ price_starting_from_inr: 17000000
 price_label: 1.70 Cr onwards
 unit_size_range_sqft: 1580-2010
 ratings: 3.7
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Trendsquares-Akino.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Trendsquares-Akino1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Trendsquares-Akino2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Trendsquares-Akino3.jpg
 ```
 
 ---

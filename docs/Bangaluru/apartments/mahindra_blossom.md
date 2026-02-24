@@ -9,6 +9,11 @@ price_starting_from_inr: 19000000
 price_label: 1.9 Cr onwards
 unit_size_range_sqft: 931-1689
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Mahindra-Blossom.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Mahindra-Blossom1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Mahindra-Blossom2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Mahindra-Blossom3.jpg
 ```
 ---
 

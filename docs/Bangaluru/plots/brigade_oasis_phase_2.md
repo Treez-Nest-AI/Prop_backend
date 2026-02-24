@@ -9,6 +9,11 @@ price_starting_from_inr: 10900000
 price_label: 1.09 Cr onwards
 plot_size_range_sqft: 1575-2252
 ratings: 3.9
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Oasis-Phase-2-1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Oasis-Phase-2-2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Oasis-Phase-2-3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Oasis-Phase-2.jpg
 ```
 ---
 

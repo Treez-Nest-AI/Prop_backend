@@ -9,6 +9,11 @@ price_starting_from_inr: 12000000
 price_label: 1.2 Cr onwards
 plot_size_range_sqft: 1200-6225
 ratings: 4.1
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Prestige-Marigold+Phase-2-.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Prestige-Marigold+Phase-2-1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Prestige-Marigold+Phase-2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Prestige-Marigold+Phase-2-3.jpg
 ```
 ---
 

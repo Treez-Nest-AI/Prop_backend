@@ -9,6 +9,11 @@ price_starting_from_inr: 11500000
 price_label: 1.15 Cr onwards
 plot_size_range_sqft: 1200-3000+
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ivy-County.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ivy-County1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ivy-County2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ivy-County3.jpg
 ```
 ---
 

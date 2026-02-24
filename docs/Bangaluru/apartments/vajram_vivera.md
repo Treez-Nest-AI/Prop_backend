@@ -9,6 +9,11 @@ price_starting_from_inr: 22500000
 price_label: 2.25 Cr onwards
 unit_size_range_sqft: 1573-2406
 ratings: 4.7
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Vajram-Vivera.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Vajram-Vivera1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Vajram-Vivera2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Vajram-Vivera3.jpg
 ```
 
 ---

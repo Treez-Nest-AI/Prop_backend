@@ -10,6 +10,11 @@ price_label: 25 Lakhs onwards
 plot_size_range_sqft: 5000-12000+
 land_use: Agricultural / Managed Farmland
 ratings: 5.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/GREEN-SIRI-FARMLAND.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/GREEN-SIRI-FARMLAND1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/GREEN-SIRI-FARMLAND2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/GREEN-SIRI-FARMLAND3.jpg
 ```
 ---
 

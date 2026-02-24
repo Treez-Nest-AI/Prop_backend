@@ -9,6 +9,11 @@ price_starting_from_inr: 23600000
 price_label: 2.36 Cr onwards
 unit_size_range_sqft: 1076-2225
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lodha-Heaven.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lodha-Heaven2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lodha-Heaven3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lodha-Heaven4.jpg
 ```
 
 ---

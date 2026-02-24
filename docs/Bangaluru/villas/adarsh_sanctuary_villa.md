@@ -9,6 +9,11 @@ price_starting_from_inr: 54000000
 price_label: 5.4 Cr onwards
 unit_size_range_sqft: 3492-4228
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Adarsh-Sanctuary-Villa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Adarsh-Sanctuary-Villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Adarsh-Sanctuary-Villa3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Adarsh-Sanctuary-Villa4.jpg
 ```
 ---
 

@@ -9,6 +9,11 @@ price_starting_from_inr: 14500000
 price_label: 1.45 Cr onwards
 unit_size_range_sqft: 1325-1785
 ratings: 4.4
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lorven-Cascade-Garden.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lorven-Cascade-Garden1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lorven-Cascade-Garden2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lorven-Cascade-Garden3.jpg
 ```
 
 ---

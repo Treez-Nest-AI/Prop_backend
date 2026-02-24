@@ -7,6 +7,11 @@ zone: North Bangalore
 developer: Ranka Group
 price_starting_from_inr: 13000000
 ratings: 3.8
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ranka-Ankura1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ranka-Ankura2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ranka-Ankura3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ranka-Ankura4.jpg
 ```
 ---
 

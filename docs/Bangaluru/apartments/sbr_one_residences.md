@@ -7,6 +7,11 @@ zone: East Bangalore
 developer: SBR Group
 price_starting_from_inr: 17000000
 ratings: 4.3
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SBR-ONE-RESIDENCES.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SBR-ONE-RESIDENCES2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SBR-ONE-RESIDENCES3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SBR-ONE-RESIDENCES4.jpg
 ```
 ---
 

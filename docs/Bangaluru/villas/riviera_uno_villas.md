@@ -9,6 +9,11 @@ price_starting_from_inr: 49100000
 price_label: 4.91 Cr onwards
 unit_size_range_sqft: 3450-3490
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Riviera-Uno-Villa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Riviera-Uno-Villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Riviera-Uno-Villa2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Riviera-Uno-Villa3.jpg
 ```
 
 ---

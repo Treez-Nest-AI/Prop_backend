@@ -8,6 +8,11 @@ developer: Prestige Group
 price_starting_from_inr: 28000000
 landmark: Varthur Lake
 ratings: 3.4
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Prestige-Raintree.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Prestige-Raintree1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Prestige-Raintree2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Prestige-Raintree3.jpg
 ```
 ---
 

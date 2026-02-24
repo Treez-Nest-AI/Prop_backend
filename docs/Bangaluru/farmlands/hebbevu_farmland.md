@@ -10,6 +10,11 @@ price_label: 18 Lakhs onwards
 plot_size_range_sqft: 10890-43560+
 land_use: Agricultural / Managed Farmland
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/HEBBEVU-FARMLAND.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/HEBBEVU-FARMLAND1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/HEBBEVU-FARMLAND2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/HEBBEVU-FARMLAND3.jpg
 ```
 ---
 

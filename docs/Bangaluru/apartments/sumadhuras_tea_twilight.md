@@ -9,6 +9,11 @@ price_starting_from_inr: 18500000
 price_label: 1.85 Cr onwards
 unit_size_range_sqft: 1280-2295
 ratings: 4.4
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura's-Tea+%26+Twilight2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura's-Tea+%26+Twilight3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura's-Tea+%26+Twilight4.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura's-Tea+%26Twilight.jpg
 ```
 
 ---

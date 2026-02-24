@@ -7,6 +7,11 @@ zone: North Bangalore
 developer: Puravankara
 price_starting_from_inr: 27000000
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Purva-Atmosphere.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Purva-Atmosphere1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Purva-Atmosphere2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Purva-Atmosphere4.jpg
 ```
 ---
 

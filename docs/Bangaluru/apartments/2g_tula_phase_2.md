@@ -10,6 +10,11 @@ price_starting_from_inr: 18000000
 price_label: 1.8 Cr onwards
 unit_size_range_sqft: 1827-1971
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/2G1-Tula.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/2G2-Tula.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/2G3-Tula.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/2G4-Tula.jpg
 ```
 
 ---

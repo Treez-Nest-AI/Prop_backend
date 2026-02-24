@@ -10,6 +10,11 @@ price_starting_from_inr: 15000000
 price_label: 1.5 Cr onwards
 unit_size_range_sqft: 1135-1460
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Candeur-Carlisle.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Candeur-Carlisle1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Candeur-Carlisle2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Candeur-Carlisle4.jpg
 ```
 ---
 

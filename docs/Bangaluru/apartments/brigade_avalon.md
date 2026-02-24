@@ -9,6 +9,11 @@ price_starting_from_inr: 46200000
 price_label: 4.62 Cr onwards
 unit_size_range_sqft: 2933-3862
 ratings: 4.1
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Avalon.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Avalon1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Avalon2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Avalon3.jpg
 ```
 ---
 

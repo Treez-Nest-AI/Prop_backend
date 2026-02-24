@@ -9,6 +9,11 @@ price_starting_from_inr: 27000000
 price_label: 2.7 Cr onwards
 unit_size_range_sqft: 1635-2150
 ratings: 4.8
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-Capitol-Residences.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-Capitol-Residences1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-Capitol-Residences2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-Capitol-Residences3.jpg
 ```
 
 ---

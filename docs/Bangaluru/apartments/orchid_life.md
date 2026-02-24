@@ -9,6 +9,11 @@ price_starting_from_inr: 9200000
 price_label: 92 Lakhs onwards
 unit_size_range_sqft: 811-1863
 ratings: 3.8
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Orchid-Life.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Orchid-Life1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Orchid-Life2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Orchid-Life3.jpg
 ```
 ---
 

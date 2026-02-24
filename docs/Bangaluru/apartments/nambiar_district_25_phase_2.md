@@ -9,6 +9,11 @@ price_starting_from_inr: 17000000
 price_label: 1.7 Cr onwards
 unit_size_range_sqft: 1245-2995
 ratings: 4.6
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-District25(Phase+2).jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-District25(Phase+2)1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-District25(Phase+2)2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-District25(Phase+2)3.jpg.png
 ```
 ---
 

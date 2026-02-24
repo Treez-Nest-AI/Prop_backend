@@ -9,6 +9,11 @@ price_starting_from_inr: 28000000
 price_label: 2.8 Cr onwards
 unit_size_range_sqft: 2914-3934
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Trifecta+Verde+en+Resplandor+Phase+3-2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Trifecta+Verde+en+Resplandor+Phase+3-3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Trifecta+Verde+en+Resplandor+Phase+31.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Trifecta+Verde+en+Resplandor+Phase+3.jpg
 ```
 ---
 

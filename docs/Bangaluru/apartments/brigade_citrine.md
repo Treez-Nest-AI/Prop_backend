@@ -9,6 +9,11 @@ price_starting_from_inr: 20700000
 price_label: 2.07 Cr onwards
 unit_size_range_sqft: 1763-2533
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Citrine.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Citrine1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Citrine2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Citrine3.jpg
 ```
 
 ---

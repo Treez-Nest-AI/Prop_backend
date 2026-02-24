@@ -9,6 +9,11 @@ price_starting_from_inr: 11000000
 price_label: 1.1 Cr onwards
 unit_size_range_sqft: 1107-1539
 ratings: 4.6
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO3.jpg.png
 ```
 ---
 

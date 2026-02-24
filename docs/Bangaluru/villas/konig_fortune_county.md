@@ -10,6 +10,11 @@ price_label: 2.9 Cr onwards
 unit_size_range_sqft: 2600-4400
 approvals: BMRDA, RERA
 ratings: 4.6
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County3.jpg
 ```
 ---
 

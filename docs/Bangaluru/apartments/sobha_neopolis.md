@@ -7,6 +7,11 @@ zone: East Bangalore
 developer: SOBHA Limited
 price_starting_from_inr: 9800000
 ratings: 3.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SOBHA-NEOPOLIS.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SOBHA-NEOPOLIS1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SOBHA-NEOPOLIS2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SOBHA-NEOPOLIS3.jpg
 ```
 ---
 

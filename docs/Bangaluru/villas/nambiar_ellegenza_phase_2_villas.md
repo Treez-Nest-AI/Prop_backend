@@ -9,6 +9,11 @@ price_starting_from_inr: 53700000
 price_label: 5.37 Cr onwards
 unit_size_range_sqft: 1575-4505
 ratings: 4.4
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-Ellegenza-Phase+2-1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-Ellegenza-Phase+2-2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-Ellegenza-Phase+2-3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-Ellegenza-Phase+2-4.jpg
 ```
 
 ---

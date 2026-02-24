@@ -9,6 +9,11 @@ price_starting_from_inr: 3599000
 price_label: 35.99 Lakhs onwards
 plot_size_range_sqft: 1200-3200
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Godrej-Reserve-Phase-2-1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Godrej-Reserve-Phase-2-2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Godrej-Reserve-Phase-2-3.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Godrej-Reserve-Phase-2.jpg
 ```
 ---
 
