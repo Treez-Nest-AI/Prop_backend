@@ -1,0 +1,27 @@
+{
+  "name": "lead-service",
+  "version": "1.0.0",
+  "description": "Lead API service for storing name, phone, and date in PostgreSQL (Neon)",
+  "main": "handlers/createLead.js",
+  "scripts": {
+    "start": "serverless offline",
+    "deploy": "serverless deploy",
+    "remove": "serverless remove"
+  },
+  "keywords": [
+    "aws-lambda",
+    "serverless",
+    "postgres",
+    "neon",
+    "lead-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.5"
+  },
+  "devDependencies": {
+    "serverless": "^3.38.0",
+    "serverless-offline": "^13.3.2"
+  }
+}

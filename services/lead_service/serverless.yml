@@ -1,0 +1,20 @@
+service: lead-service
+
+frameworkVersion: '3'
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-south-1
+  role: arn:aws:iam::344961840420:role/sharepost-role
+
+  environment:
+    POSTGRE_URI: ${ssm:/db/neon/prop_uri}
+
+functions:
+  createLead:
+    handler: handlers/createLead.handler
+    events:
+      - http:
+          path: lead
+          method: post
+          cors: true
