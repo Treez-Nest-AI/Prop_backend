@@ -10,6 +10,11 @@ price_label: 85 Lakhs onwards
 status: Under Construction
 unit_size_range_sqft: 787-1353
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/pacifica_hillcrest_phase_2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/pacifica_hillcrest_phase_2-1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/pacifica_hillcrest_phase_2-2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/pacifica_hillcrest_phase_2-3.jpg
 ```
 ---
 

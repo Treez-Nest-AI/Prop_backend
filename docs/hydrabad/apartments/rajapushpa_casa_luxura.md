@@ -10,6 +10,11 @@ price_label: 7.45 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 5735
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_casa_luxura.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_casa_luxura1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_casa_luxura2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_casa_luxura4.jpg
 ```
 ---
 

@@ -10,6 +10,11 @@ price_label: 4.95 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 3800-6000+
 ratings: 5.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/konak_villa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/konak_villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/konak_villa2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/konak_villa3.jpg
 ```
 ---
 

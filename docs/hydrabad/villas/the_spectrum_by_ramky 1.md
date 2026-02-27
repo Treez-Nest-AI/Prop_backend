@@ -11,6 +11,11 @@ price_label: 1.95 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 2457-2913
 ratings: 4.1
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_spectrum_by_ramky.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_spectrum_by_ramky1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_spectrum_by_ramky2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_spectrum_by_ramky3.jpg
 ```
 ---
 

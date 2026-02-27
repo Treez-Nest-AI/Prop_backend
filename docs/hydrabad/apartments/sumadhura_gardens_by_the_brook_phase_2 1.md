@@ -10,6 +10,11 @@ price_label: 99 Lakhs onwards
 status: Under Construction
 unit_size_range_sqft: 1285-1680
 ratings: 4.6
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sumadhura_gardens_by_the_brook_phase_2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sumadhura_gardens_by_the_brook_phase_2-1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sumadhura_gardens_by_the_brook_phase_2-2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sumadhura_gardens_by_the_brook_phase_2-3.jpg
 ```
 
 # Sumadhura Gardens By The Brook – Phase 2

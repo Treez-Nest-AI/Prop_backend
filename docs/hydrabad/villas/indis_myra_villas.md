@@ -10,6 +10,11 @@ price_label: 3.50 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 3800-5500
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/indis_myra_villa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/indis_myra_villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/indis_myra_villa2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/indis_myra_villa3.jpg
 ```
 ---
 

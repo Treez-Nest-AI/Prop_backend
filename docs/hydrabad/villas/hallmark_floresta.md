@@ -10,6 +10,11 @@ price_label: 4.50 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 3500-6000
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/hallmark_floresta.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/hallmark_floresta1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/hallmark_floresta2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/hallmark_floresta3.jpg
 ```
 ---
 

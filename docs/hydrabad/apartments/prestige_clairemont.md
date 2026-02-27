@@ -10,6 +10,11 @@ price_label: 2.10 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1989-4000+
 ratings: 5.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/prestige_clairemont.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/prestige_clairemont1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/prestige_clairemont2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/prestige_clairemont3.webp
 ```
 ---
 

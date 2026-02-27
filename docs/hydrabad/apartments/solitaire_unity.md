@@ -10,6 +10,11 @@ price_label: 1.06 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1224-2300
 ratings: 4.3
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/solitaire_unity.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/solitaire_unity1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/solitaire_unity2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/solitaire_unity3.jpg
 ```
 ---
 

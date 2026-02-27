@@ -10,6 +10,11 @@ price_label: 1.25 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1300-2950
 ratings: 4.1
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_imperia.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_imperia1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_imperia2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_imperia3.jpg
 ```
 ---
 

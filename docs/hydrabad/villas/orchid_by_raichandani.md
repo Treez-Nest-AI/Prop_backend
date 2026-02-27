@@ -10,6 +10,11 @@ price_label: 3.52 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 4697-5477
 ratings: 4.3
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/orchid_by_raichandani.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/orchid_by_raichandani1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/orchid_by_raichandani2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/orchid_by_raichandani3.jpg
 ```
 ---
 

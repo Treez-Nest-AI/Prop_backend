@@ -10,6 +10,11 @@ price_label: 5.6 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 3800-6610
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sumadhura_palais_royale.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sumadhura_palais_royale1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sumadhura_palais_royale2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sumadhura_palais_royale3.jpg
 ```
 ---
 

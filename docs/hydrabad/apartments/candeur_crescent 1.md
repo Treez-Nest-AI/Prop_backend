@@ -11,6 +11,11 @@ price_label: 1.85 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1333-2656
 ratings: 4.6
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_crescent.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_crescent1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_crescent2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_crescent3.jpg
 ```
 ---
 

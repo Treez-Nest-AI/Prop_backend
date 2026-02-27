@@ -10,6 +10,9 @@ price_label: 1.20 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1600-2600
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/casagrand_windsor_court.avif
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/casagrand_windsor_court1.jpg
 ```
 ---
 

@@ -11,6 +11,11 @@ price_label: 1.65 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1643-3572
 ratings: 4.6
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/godrej_regal_pavilion.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/godrej_regal_pavilion1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/godrej_regal_pavilion2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/godrej_regal_pavilion3.jpg
 ```
 ---
 

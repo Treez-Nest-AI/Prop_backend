@@ -10,6 +10,11 @@ price_label: 1.10 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1200-2200
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/ramky_one_odyssey.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/ramky_one_odyssey1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/ramky_one_odyssey2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/ramky_one_odyssey3.jpg
 ```
 
 ---

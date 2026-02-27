@@ -10,6 +10,11 @@ price_label: 1.20 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1250-2400
 ratings: 4.3
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/cybercity_stone_ridge.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/cybercity_stone_ridge1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/cybercity_stone_ridge2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/cybercity_stone_ridge3.jpg
 ```
 ---
 

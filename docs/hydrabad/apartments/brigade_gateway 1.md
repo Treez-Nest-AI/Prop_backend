@@ -11,6 +11,11 @@ price_label: 4.60 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 3067-9859
 ratings: 4.3
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/brigade_gateway.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/brigade_gateway.1jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/brigade_gateway2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/brigade_gateway3.jpg
 ```
 ---
 

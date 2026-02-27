@@ -10,6 +10,11 @@ price_label: 5.50 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 4945-6000
 ratings: 5.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/prestige_vaishnaoi_rainbow_waters.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/prestige_vaishnaoi_rainbow_waters1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/prestige_vaishnaoi_rainbow_waters2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/prestige_vaishnaoi_rainbow_waters3.jpg
 ```
 ---
 

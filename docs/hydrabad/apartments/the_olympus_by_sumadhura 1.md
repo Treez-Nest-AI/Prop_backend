@@ -10,6 +10,11 @@ price_label: 2 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1670-3000
 ratings: 4.7
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_olympus_by_sumadhura.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_olympus_by_sumadhura1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_olympus_by_sumadhura2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_olympus_by_sumadhura3.jpg
 ```
 
 # The Olympus by Sumadhura

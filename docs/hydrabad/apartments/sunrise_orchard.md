@@ -10,6 +10,11 @@ price_label: 95 Lakhs onwards
 status: Under Construction
 unit_size_range_sqft: 1200-2400
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sunrise_orchard.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sunrise_orchard1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sunrise_orchard2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sunrise_orchard3.jpg
 ```
 ---
 

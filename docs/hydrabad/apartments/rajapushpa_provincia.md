@@ -10,6 +10,11 @@ price_label: 1.25 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1370-2660
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_provincia.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_provincia1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_provincia2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_provincia3.jpg
 ```
 ---
 # Rajapushpa Provincia

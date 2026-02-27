@@ -11,6 +11,11 @@ price_label: 1.50 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1534-3431
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_prestige_city.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_prestige_city1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_prestige_city2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/the_prestige_city3.jpg
 ```
 ---
 # The Prestige City  

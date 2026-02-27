@@ -10,6 +10,11 @@ price_label: 4.50 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 4000-6000+
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/cybercity_villa_verde.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/cybercity_villa_verde1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/cybercity_villa_verde2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/cybercity_villa_verde3.jpg
 ```
 ---
 

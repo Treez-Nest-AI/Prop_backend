@@ -10,6 +10,11 @@ price_label: 4.50 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 4800-6500+
 ratings: 5.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_serene_dale.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_serene_dale1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_serene_dale2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_serene_dale3.jpg
 ```
 
 ---

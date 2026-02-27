@@ -10,6 +10,11 @@ price_label: 1.25 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1390-2300+
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_pristinia.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_pristinia1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_pristinia2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rajapushpa_pristinia3.jpg
 ```
 ---
 

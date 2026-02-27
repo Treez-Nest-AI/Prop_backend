@@ -10,6 +10,11 @@ price_label: 1.10 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1200-2100
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rv_vibhavam.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rv_vibhavam1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rv_vibhavam2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/rv_vibhavam3.jpg
 ```
 ---
 

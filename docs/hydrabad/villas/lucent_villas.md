@@ -10,6 +10,11 @@ price_label: 6.75 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 4630-5715
 ratings: 4.6
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/lucent_villa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/lucent_villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/lucent_villa2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/lucent_villa3.jpg
 ```
 ---
 

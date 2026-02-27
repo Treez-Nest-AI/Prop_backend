@@ -10,6 +10,11 @@ price_label: 1.78 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 2290-3040
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/srias_iwa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/srias_iwa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/srias_iwa2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/srias_iwa3.jpg
 ```
 ---
 

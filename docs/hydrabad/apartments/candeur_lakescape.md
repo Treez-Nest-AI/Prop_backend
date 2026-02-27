@@ -10,6 +10,11 @@ price_label: 1.35 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1300-2500
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_lakescape.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_lakescape1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_lakescape2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_lakescape3.jpg
 ```
 ---
 

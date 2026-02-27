@@ -10,6 +10,11 @@ price_label: 2.96 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 3280-3333
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/praneeta_amity_villa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/praneeta_amity_villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/praneeta_amity_villa2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/praneeta_amity_villa3.jpg
 ```
 ---
 

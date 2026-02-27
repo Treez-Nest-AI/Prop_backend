@@ -11,6 +11,11 @@ price_label: 8.5 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 6520-11999
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_skyline.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_skyline1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_skyline2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/candeur_skyline3.jpeg
 ```
 ---
 

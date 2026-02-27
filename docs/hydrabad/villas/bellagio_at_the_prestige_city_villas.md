@@ -10,6 +10,11 @@ price_label: 11 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 5767
 ratings: 4.8
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/bellagio_at_the_prestige_city_villa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/bellagio_at_the_prestige_city_villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/bellagio_at_the_prestige_city_villa2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/bellagio_at_the_prestige_city_villa3.jpg
 ```
 
 ---

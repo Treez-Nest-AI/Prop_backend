@@ -10,6 +10,11 @@ price_label: 1.20 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1295-2400
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/anvita_high_9.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/anvita_high_9-1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/anvita_high_9-2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/anvita_high_9-3.jpg
 ```
 ---
 

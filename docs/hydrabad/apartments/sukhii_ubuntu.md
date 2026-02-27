@@ -10,6 +10,11 @@ price_label: 96 Lakhs onwards
 status: Under Construction
 unit_size_range_sqft: 1100-1750
 ratings: 4.2
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sukhii_ubuntu.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sukhii_ubuntu1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sukhii_ubuntu2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/sukhii_ubuntu3.jpg
 ```
 ---
 

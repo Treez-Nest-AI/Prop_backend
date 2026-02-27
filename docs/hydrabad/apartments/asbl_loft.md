@@ -10,6 +10,11 @@ price_label: 1.94 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1695
 ratings: 4.5
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/asbl_loft.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/asbl_loft1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/asbl_loft2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/asbl_loft3.jpg
 ```
 ---
 

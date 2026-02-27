@@ -11,6 +11,11 @@ price_label: 2.99 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 2352-3368
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/godrej_madison_avenue.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/godrej_madison_avenue1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/godrej_madison_avenue2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/godrej_madison_avenue3.jpg
 ```
 ---
 

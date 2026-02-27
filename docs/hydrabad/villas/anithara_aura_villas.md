@@ -10,6 +10,11 @@ price_label: 1.16 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 2110-3130
 ratings: 4.1
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/anithara_aura_villa.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/anithara_aura_villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/anithara_aura_villa2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/anithara_aura_villa3.jpg
 ```
 ---
 

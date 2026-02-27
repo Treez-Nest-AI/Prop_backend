@@ -10,6 +10,11 @@ price_label: 1.25 Cr onwards
 status: Under Construction
 unit_size_range_sqft: 1325-2700
 ratings: 4.0
+images:
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/hallmark_treasor.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/hallmark_treasor1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/hallmark_treasor2.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/Hyderabad/hallmark_treasor3.jpg
 ```
 ---
 
