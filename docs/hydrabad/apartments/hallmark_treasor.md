@@ -61,4 +61,3 @@ Starting Price: ₹ 1.25 Crore onwards
 
 ## Review
 Hallmark Treasor offers a balanced mix of modern design, strategic location, and competitive pricing in the Kokapet/Narsingi growth corridor. With proximity to Hyderabad’s prime IT zones and steady infrastructure development, it presents a practical option for comfortable living and long-term appreciation.
-

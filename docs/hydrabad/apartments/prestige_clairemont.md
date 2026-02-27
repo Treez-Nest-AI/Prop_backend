@@ -61,4 +61,3 @@ Starting Price: ₹ 2.10 Crore onwards
 
 ## Review
 Prestige Clairemont stands as a benchmark luxury development in Kokapet’s Neopolis corridor. Backed by the trusted Prestige Group brand, it offers premium specifications, expansive layouts, and strong appreciation potential — making it a top-tier choice for luxury homebuyers in West Hyderabad.
-

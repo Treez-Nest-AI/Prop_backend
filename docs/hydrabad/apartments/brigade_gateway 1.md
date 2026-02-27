@@ -12,11 +12,9 @@ status: Under Construction
 unit_size_range_sqft: 3067-9859
 ratings: 4.3
 ```
-
 ---
 
 # Brigade Gateway
-
 
 ## Description
 
@@ -28,20 +26,17 @@ Brigade Gateway is an iconic mixed-use development spread across approximately *
 ## Floor Plans
 Elegantly designed 3, 4, 5, and 6 BHK floor plans offering expansive layouts, premium finishes, and efficient spatial planning.
 
-
 ### Available Floor Plans
 - Floor Plan 1
 - Floor Plan 2
 - Floor Plan 3
 - Floor Plan 4
 
-
 ## Unit Details
 - 3 BHK Apartments: 3,067 – 3,354 sq. ft.
 - 4 BHK Apartments: 4,123 – 4,980 sq. ft.
 - 5 BHK Duplex Homes: 5,761 – 7,679 sq. ft.
 - 6 BHK Duplex Homes: 9,786 – 9,859 sq. ft.
-
 
 ## Amenities
 - Exclusive Residential Clubhouse
@@ -70,4 +65,3 @@ Starting Price: ₹ 4.60 Crore onwards
 
 ## Review
 Brigade Gateway stands as one of Hyderabad’s most prestigious residential addresses, offering a rare combination of luxury living within a fully integrated mixed-use ecosystem. With iconic high-rise architecture, spacious premium residences, world-class amenities, and seamless access to business, hospitality, and retail destinations, the project delivers unmatched convenience and lifestyle appeal. Backed by Brigade Group’s trusted legacy and its prime Kokapet–Financial District location, Brigade Gateway presents a compelling opportunity for discerning homeowners and long-term investors alike.
-

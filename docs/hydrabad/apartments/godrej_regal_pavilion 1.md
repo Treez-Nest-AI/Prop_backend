@@ -60,4 +60,3 @@ Starting Price: ₹ 1.65 Crore onwards
 
 ## Review
 Godrej Regal Pavilion stands out as a distinguished residential address in Rajendra Nagar, offering timeless neoclassical design, spacious residences, and a premium lifestyle ecosystem. With excellent connectivity to major transport corridors, proximity to the airport, and the trusted legacy of Godrej Properties, the project presents a compelling opportunity for buyers seeking luxury living combined with strong long-term investment potential in Hyderabad.
-

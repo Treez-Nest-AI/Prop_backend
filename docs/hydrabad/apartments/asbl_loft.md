@@ -11,7 +11,6 @@ status: Under Construction
 unit_size_range_sqft: 1695
 ratings: 4.5
 ```
-
 ---
 
 # ASBL Loft
@@ -53,4 +52,3 @@ Starting Price: ₹ 1.94 Crore onwards
 
 ## Review
 ASBL Loft stands out for its smart space planning and prime Gachibowli location. With efficient layouts, strong IT corridor connectivity, and a reliable developer track record, it is a solid choice for professionals and families seeking practical luxury with strong appreciation potential.
-

@@ -12,7 +12,7 @@ status: Under Construction
 unit_size_range_sqft: 1534-3431
 ratings: 4.0
 ```
-
+---
 # The Prestige City  
 
 ## Description
@@ -67,4 +67,3 @@ Starting Price: ₹ 1.50 Crore onwards
 
 ## Review
 The Prestige City stands out as one of South Hyderabad’s most expansive and thoughtfully planned residential developments. With its lakefront setting, large-scale master planning, Vaastu-compliant homes, premium amenities, and strong connectivity, the project offers a balanced lifestyle that blends luxury, comfort, and convenience. Backed by the trusted Prestige Group brand and located in a rapidly developing residential corridor, The Prestige City presents a compelling opportunity for end-users and long-term investors alike.
-

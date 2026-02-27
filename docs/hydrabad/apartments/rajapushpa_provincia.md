@@ -12,7 +12,6 @@ unit_size_range_sqft: 1370-2660
 ratings: 4.5
 ```
 ---
-
 # Rajapushpa Provincia
 
 ## Description
@@ -60,5 +59,3 @@ Starting Price: ₹ 1.25 Crore onwards
 
 ## Review
 Rajapushpa Provincia stands out for its large-scale planning, spacious layouts, and prime Narsingi location near the Financial District. Backed by a reputed developer and strong infrastructure growth in the corridor, it offers a premium lifestyle along with solid long-term appreciation potential.
-
-

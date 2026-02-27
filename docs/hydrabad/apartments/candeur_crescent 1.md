@@ -12,20 +12,16 @@ status: Under Construction
 unit_size_range_sqft: 1333-2656
 ratings: 4.6
 ```
-
 ---
 
 # Candeur Crescent
 
-
 ## Description
 Candeur Crescent is a premium luxury residential apartment project located in Serilingampally, Hyderabad. Spread across a thoughtfully planned 5.5-acre development, the project features elegant high-rise towers offering spacious and well-designed 2.5 and 3 BHK residences. With modern architecture, abundant natural light, and a wide range of lifestyle amenities, Candeur Crescent is designed to deliver elevated urban living with excellent connectivity and long-term value.
-
 
 ## Overview
 Candeur Crescent is a landmark residential development spread across approximately **5.5 acres**, comprising **5 iconic towers rising up to 50 floors**. The project is designed with just **5 apartments per floor** and nearly **80% corner homes**, ensuring superior privacy, cross ventilation, and natural light for every residence.
 The spacious 2.5 & 3 BHK apartments range from **1,333 to 2,656 sq. ft.**, featuring efficient layouts, functional balconies, and contemporary interiors. Strategically located just **0.2 km from Lingampally Railway Station**, the project enjoys seamless connectivity to **Gachibowli, Kondapur, ORR, Raidurg Metro Station, and Kokapet**, making it an excellent choice for end-users and long-term investors alike. A grand **62,000 sq. ft. clubhouse** and thoughtfully curated amenities further enhance everyday living.
-
 
 ## Floor Plans
 Thoughtfully designed 2.5 & 3 BHK floor plans offering smart layouts, excellent ventilation, spacious living areas, and functional balconies for modern family living.

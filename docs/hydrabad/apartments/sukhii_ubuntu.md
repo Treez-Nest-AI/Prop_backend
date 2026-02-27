@@ -56,5 +56,3 @@ Starting Price: ₹ 96 Lakhs onwards
 
 ## Review
 Sukhii Ubuntu is a strong value-for-money option in Bachupally, offering practical layouts, community-focused amenities, and competitive pricing. With improving infrastructure and steady demand in the corridor, it is a good choice for first-time buyers and investors seeking stable long-term appreciation.
-
-

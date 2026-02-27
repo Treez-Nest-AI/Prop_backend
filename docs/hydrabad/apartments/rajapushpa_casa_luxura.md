@@ -54,4 +54,3 @@ Starting Price: ₹ 7.45 Crore onwards
 
 ## Review
 Rajapushpa Casa Luxura is positioned in the ultra-premium segment of Kokapet, offering exceptionally large residences and strong brand credibility. With its prime location, spacious layouts, and luxury-focused community design, it is an excellent choice for high-end buyers seeking exclusivity, status, and long-term capital appreciation.
-

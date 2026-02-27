@@ -16,7 +16,6 @@ ratings: 4.3
 # Solitaire Unity
 
 ## Description
-
 Solitaire Unity is a premium high-rise residential development by Technopolis Constructions, located in Kondapur, Hyderabad. Designed for modern urban living, the project offers thoughtfully planned 2, 2.5, and 3 BHK apartments with spacious layouts, contemporary architecture, and lifestyle-focused amenities in a prime IT corridor.
 
 ## Overview

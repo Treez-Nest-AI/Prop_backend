@@ -16,7 +16,6 @@ ratings: 4.2
 
 # Ramky One Odyssey
 
-
 ## Description
 Ramky One Odyssey is a premium high-rise gated community by Ramky Estates, located in Narsingi, West Hyderabad. Designed for modern urban families, the project offers spacious 2 and 3 BHK apartments with contemporary architecture, wide balconies, and well-planned interiors that ensure natural light, ventilation, and everyday comfort.
 

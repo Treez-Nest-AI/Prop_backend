@@ -11,7 +11,6 @@ status: Under Construction
 unit_size_range_sqft: 1295-2400
 ratings: 4.0
 ```
-
 ---
 
 # Anvita High 9
@@ -29,7 +28,6 @@ Well-planned 2 and 3 BHK apartments designed for efficient space utilization and
 ### Available Floor Plans
 - 2 BHK Floor Plan
 - 3 BHK Floor Plan
-
 
 ## Unit Details
 - 2 BHK Apartments: 1,295 – 1,450 sq. ft.
@@ -62,5 +60,3 @@ Starting Price: ₹ 1.20 Crore onwards
 
 ## Review
 Anvita High 9 offers a balanced mix of spacious layouts, modern amenities, and prime Kondapur connectivity. With competitive pricing and proximity to major IT corridors, it stands as a practical and promising choice for both comfortable living and long-term investment growth in West Hyderabad.
-
-

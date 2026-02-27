@@ -11,7 +11,6 @@ status: Under Construction
 unit_size_range_sqft: 1600-2600
 ratings: 4.0
 ```
-
 ---
 
 # Casagrand Windsor Court
@@ -22,15 +21,12 @@ Casagrand Windsor Court is a premium residential community in Tellapur offering 
 ## Overview
 Strategically located near **Financial District, Gachibowli, and Outer Ring Road (ORR)**, the project ensures strong connectivity to major IT hubs and social infrastructure. Designed as a gated enclave with landscaped open spaces, it offers a comfortable and well-balanced lifestyle environment.
 
-
 ## Floor Plans
 Thoughtfully crafted 3 and 4 BHK residences designed for modern family living.
-
 
 ### Available Floor Plans
 - 3 BHK Apartments
 - 4 BHK Apartments
-
 
 ## Unit Details
 - 3 BHK: 1,600 – 1,900 sq. ft.
@@ -60,4 +56,3 @@ Starting Price: ₹ 1.20 Crore onwards
 
 ## Review
 Casagrand Windsor Court offers a strong combination of spacious configurations, competitive pricing, and growing Tellapur location advantage. With good connectivity to the Financial District and a family-focused community setup, it is a reliable option for mid-to-premium homebuyers seeking value and future appreciation potential.
-
