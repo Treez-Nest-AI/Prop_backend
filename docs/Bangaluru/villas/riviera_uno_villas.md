@@ -16,11 +16,9 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Riviera-Uno-Villa2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Riviera-Uno-Villa3.jpg
 ```
-
 ---
 
 # Riviera Uno
-
 
 ## Description
 Riviera Uno is an exclusive ultra-luxury villa community located off Soukya Road, Whitefield, Bangalore. Spread across 12 acres with only 137 bespoke 4 BHK villas, the project features Sol & Luna–inspired architecture, private open deck terraces, lush green landscapes, and world-class amenities—crafted for refined, future-ready living.
@@ -55,7 +53,6 @@ Thoughtfully designed 4 BHK luxury villa floor plans featuring private open deck
 - 24/7 Gated Security
 - 50+ World-Class Amenities
 
-
 ## Builders
 - Riviera builder: In Indian real estate, the name "Riviera" most commonly refers to the flagship series of projects by Goyal & Co. | Hariyana Group, 
 
@@ -64,4 +61,3 @@ Starting Price: ₹ 4.91 Crore onwards
 
 ## Review
 Riviera Uno stands out as a premium villa address in Whitefield, offering limited-edition ultra-luxury homes with private deck terraces, elegant Sol & Luna–inspired design, and expansive green spaces. With excellent connectivity, refined amenities, and the trusted legacy of Goyal Co | Hariyana Group, it is an ideal choice for discerning buyers seeking privacy, comfort, and long-term value.
-

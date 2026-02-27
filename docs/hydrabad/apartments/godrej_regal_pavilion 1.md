@@ -8,18 +8,16 @@ zone: South-West Hyderabad
 developer: Godrej Properties
 price_starting_from_inr: 16500000
 price_label: 1.65 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1643-3572
 ratings: 4.6
- 
 ```
-
 ---
 
 # Godrej Regal Pavilion
 
 ## Description
 Godrej Regal Pavilion is a premium residential apartment project by Godrej Properties, located in Rajendra Nagar, Hyderabad. Designed with elegant neoclassical architecture, the project offers spacious 3, 3.5, and 4 BHK residences set within a grand, palace-inspired residential enclave. With expansive green landscapes, a landmark clubhouse, and world-class amenities, Godrej Regal Pavilion delivers refined luxury and long-term value in a well-connected urban setting.
-
 
 ## Overview
 Godrej Regal Pavilion is an iconic residential development spread across approximately **13 acres**, comprising **9 architecturally refined towers rising up to 33 floors**. The project offers thoughtfully designed homes with generous layouts, wide balconies, and optimal floor-to-floor heights that enhance light, ventilation, and privacy. A magnificent **75,000 sq. ft. palace-themed clubhouse**, curated landscapes, and a wide range of lifestyle amenities elevate everyday living. Strategically located in Rajendra Nagar, the project enjoys excellent connectivity to **PVNR Expressway, Rajiv Gandhi International Airport, key IT hubs, schools, healthcare facilities, and retail destinations**, making it an ideal choice for luxury homebuyers and long-term investors.
@@ -35,7 +33,6 @@ Meticulously designed 3, 3.5, and 4 BHK floor plans offering spacious layouts, w
 ## Unit Details
 - 3 & 3.5 BHK Apartments: 1,643 – 2,674 sq. ft.
 - 4 BHK Apartments: 2,883 – 3,572 sq. ft.
-
 
 ## Amenities
 - 75,000 sq. ft. Palace-Themed Clubhouse
@@ -54,6 +51,9 @@ Meticulously designed 3, 3.5, and 4 BHK floor plans offering spacious layouts, w
 - Pedestrian-Friendly Pathways
 - 24/7 Security
 - 30+ World-Class Amenities
+
+## Builders
+this project is part of the Godrej Group, they are renowned across India for their quality and reliability.
 
 ## Pricing
 Starting Price: ₹ 1.65 Crore onwards

@@ -7,14 +7,13 @@ zone: West Hyderabad
 developer: Prestige Group & Vaishnaoi Group
 price_starting_from_inr: 55000000
 price_label: 5.50 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 4945-6000
 ratings: 5.0
 ```
-
 ---
 
 # Prestige Vaishnaoi Rainbow Waters
-
 
 ## Description
 Prestige Vaishnaoi Rainbow Waters is an ultra-luxury waterfront high-rise community in the Financial District, offering expansive 4 & 5 BHK residences with panoramic water views, premium specifications, and grand living spaces designed for elite lifestyles.
@@ -28,7 +27,6 @@ Exclusively designed 4 and 5 BHK residences focused on space, privacy, and luxur
 ### Available Floor Plans
 - 4 BHK Large / Premium Apartments
 - 5 BHK Apartments
-
 
 ## Unit Details
 - 4 BHK: ~4,945 sq. ft.
@@ -51,6 +49,9 @@ Exclusively designed 4 and 5 BHK residences focused on space, privacy, and luxur
 - High-Speed Elevators
 - Ample Basement Parking
 - Gated Community Access
+
+## Builders
+The project is being developed by Prestige Group, one of India's largest and most trusted real estate companies. 
 
 ## Pricing
 Starting Price: ₹ 5.50 Crore onwards

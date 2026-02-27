@@ -8,6 +8,7 @@ zone: West Hyderabad
 developer: Brigade Group
 price_starting_from_inr: 46000000
 price_label: 4.60 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 3067-9859
 ratings: 4.3
 ```
@@ -60,6 +61,9 @@ Elegantly designed 3, 4, 5, and 6 BHK floor plans offering expansive layouts, pr
 - Integrated World Trade Center
 - InterContinental 5-Star Hotel
 - Orion Mall
+
+## Builders
+The Brigade Gateway project has been developed by Brigade Group, one of India's most prestigious real estate firms
 
 ## Pricing
 Starting Price: ₹ 4.60 Crore onwards

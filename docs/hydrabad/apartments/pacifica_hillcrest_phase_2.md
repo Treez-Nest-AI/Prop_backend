@@ -7,34 +7,29 @@ zone: West Hyderabad
 developer: Pacifica Companies
 price_starting_from_inr: 8500000
 price_label: 85 Lakhs onwards
+status: Under Construction
 unit_size_range_sqft: 787-1353
 ratings: 4.0
 ```
-
 ---
 
 # Pacifica Hillcrest Phase 2
 
-
 ## Description
 Pacifica Hillcrest Phase 2 is a premium residential apartment project by Pacifica Companies, located in the Financial District, Hyderabad. Set amidst natural rock formations and landscaped greenery, the project offers well-designed 2 and 3 BHK apartments that combine modern architecture with peaceful hillside surroundings.
-
 
 ## Overview
 Pacifica Hillcrest Phase 2 is part of a large integrated township designed to provide a modern gated community lifestyle with scenic views and well-planned infrastructure. The development features elegant residential towers with efficient layouts, good ventilation, and spacious balconies.
 Strategically positioned near **Financial District, Gachibowli, Nanakramguda, and Outer Ring Road**, the project ensures excellent connectivity to major IT companies like Amazon, Microsoft, Infosys, and Wipro, along with reputed schools and hospitals — making it ideal for professionals and families.
 
-
 ## Floor Plans
 Smartly planned 2 and 3 BHK apartments designed for comfortable and functional urban living.
-
 
 ### Available Floor Plans
 - 2 BHK Apartments
 - 3 BHK Apartments
 
 ## Unit Details
-
 * 2 BHK Apartments: ~787 – 1,049 sq. ft.
 * 3 BHK Apartments: ~1,148 – 1,353 sq. ft.
 
@@ -55,6 +50,9 @@ Smartly planned 2 and 3 BHK apartments designed for comfortable and functional u
 - Power Backup
 - Basement Parking
 - Gated Community with Access Control
+
+## Builders
+This project is being built by Pacifica Companies, an international real estate firm. They have been working since 1978 and has completed many prestigious projects across the US and India.
 
 ## Pricing
 Starting Price: ₹ 85 Lakhs onwards

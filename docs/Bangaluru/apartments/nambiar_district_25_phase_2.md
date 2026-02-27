@@ -59,6 +59,5 @@ Multiple intelligently designed 2, 3, 4 & 4.5 BHK floor plans offering large liv
 ## Pricing
 Starting Price: ₹ 1.7 Crore onwards
 
-
 ## Review
 Nambiar District 25 Phase 2 stands out as one of East Bangalore’s most premium township developments, offering ultra-spacious homes, low-density living with only four apartments per floor, vast green open spaces, and a resort-style amenity ecosystem. Its strategic location off Sarjapur Road, combined with luxury specifications and excellent connectivity, makes it an ideal choice for discerning families and professionals seeking an elevated lifestyle.

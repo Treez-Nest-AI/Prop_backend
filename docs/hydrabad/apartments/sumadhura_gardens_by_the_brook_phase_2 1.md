@@ -7,24 +7,21 @@ zone: South Hyderabad
 developer: Sumadhura Group
 price_starting_from_inr: 9900000
 price_label: 99 Lakhs onwards
+status: Under Construction
 unit_size_range_sqft: 1285-1680
 ratings: 4.6
 ```
 
 # Sumadhura Gardens By The Brook – Phase 2
 
-
 ## Description
 Sumadhura Gardens By The Brook – Phase 2 is a premium residential apartment project located at Gaganpahad, Shamshabad, Hyderabad. Designed around nature-inspired living, the project offers thoughtfully planned 2, 2.5, and 3 BHK apartments that blend modern architecture, serene landscapes, and contemporary lifestyle amenities for a peaceful yet connected urban life.
-
 
 ## Overview
 Sumadhura Gardens By The Brook – Phase 2 is a large gated residential community spread across approximately **9.625 acres**, featuring **76% open spaces**, lush landscaped gardens, and a signature flowing brook that enhances the natural ambiance. The project comprises **8 elegant towers** housing **908 well-designed homes**, ensuring a vibrant yet low-stress living environment. Its strategic location near the **Outer Ring Road and Rajiv Gandhi International Airport** offers excellent connectivity to key IT hubs, schools, hospitals, and commercial destinations in Hyderabad.
 
-
 ## Floor Plans
 Carefully designed 2, 2.5, and 3 BHK floor plans that maximize space utilization, natural light, ventilation, and everyday comfort.
-
 
 ### Available Floor Plans
 - Floor Plan 1
@@ -54,6 +51,9 @@ Carefully designed 2, 2.5, and 3 BHK floor plans that maximize space utilization
 - Two Exclusive Clubhouses
 - 24/7 Security
 - 20+ World-Class Amenities
+
+## Builders
+The Sumadhura Group is a leading developer with a 30-year legacy in Hyderabad. 
 
 ## Pricing
 Starting Price: ₹ 99 Lakhs onwards

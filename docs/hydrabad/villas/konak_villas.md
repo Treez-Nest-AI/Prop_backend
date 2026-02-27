@@ -7,14 +7,13 @@ zone: West Hyderabad
 developer: Konak Lifespaces Pvt. Ltd.
 price_starting_from_inr: 49500000
 price_label: 4.95 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 3800-6000+
 ratings: 5.0
 ```
-
 ---
 
 # Konak Villas
-
 
 ## Description
 Konak Villas is a premium gated villa community in the Tellapur–Kokapet corridor, offering spacious 4 & 5 BHK independent villas with contemporary architecture, private gardens, expansive interiors, and premium specifications crafted for refined luxury living.
@@ -22,7 +21,6 @@ Konak Villas is a premium gated villa community in the Tellapur–Kokapet corrid
 ## Overview
 Konak Villas is an under-construction upscale enclave designed for privacy and exclusivity. The project features wide internal roads, landscaped green spaces, and elegantly designed villas with large plot sizes and select double-height living areas.
 Strategically located near **Financial District, Gachibowli, and Outer Ring Road**, the development ensures seamless connectivity to major IT hubs, international schools, hospitals, and retail destinations — making it ideal for high-end homebuyers and investors.
-
 
 ## Floor Plans
 Spacious 4 and 5 BHK villa layouts designed for elite family comfort and modern lifestyle needs.
@@ -55,6 +53,8 @@ Spacious 4 and 5 BHK villa layouts designed for elite family comfort and modern 
 - Visitor Parking
 - Gated Community with Access Control
 
+## Builders
+This project is being built by Konak, a company known for its luxury projects in Hyderabad. 
 
 ## Pricing
 Starting Price: ₹ 4.95 Crore onwards

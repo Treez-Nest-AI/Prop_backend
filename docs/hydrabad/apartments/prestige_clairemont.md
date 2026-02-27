@@ -7,14 +7,13 @@ zone: West Hyderabad
 developer: Prestige Group
 price_starting_from_inr: 21000000
 price_label: 2.10 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1989-4000+
 ratings: 5.0
 ```
-
 ---
 
 # Prestige Clairemont
-
 
 ## Description
 Prestige Clairemont is an ultra-luxury high-rise residential development by Prestige Group, located in Neopolis, Kokapet — one of Hyderabad’s most premium residential corridors. The project offers meticulously designed 3 and 4 BHK residences that combine grand living spaces, contemporary architecture, and panoramic city views.
@@ -26,12 +25,10 @@ Strategically positioned near **Financial District, Gachibowli, HITEC City, and 
 ## Floor Plans
 Thoughtfully crafted 3 and 4 BHK residences designed for spacious and upscale living.
 
-
 ### Available Floor Plans
 - 3 BHK Apartments
 - 3 BHK Large Apartments
 - 4 BHK Apartments
-
 
 ## Unit Details
 - 3 BHK Apartments: 1,989 – 2,200 sq. ft.
@@ -56,6 +53,8 @@ Thoughtfully crafted 3 and 4 BHK residences designed for spacious and upscale li
 - Ample Parking Spaces
 - Gated Community with Controlled Access
 
+## Builders
+The project is being developed by Prestige Group, one of India's largest and most trusted real estate companies. 
 
 ## Pricing
 Starting Price: ₹ 2.10 Crore onwards

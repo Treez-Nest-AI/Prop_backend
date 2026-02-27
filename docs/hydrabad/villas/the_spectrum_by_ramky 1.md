@@ -8,14 +8,13 @@ zone: East Hyderabad
 developer: Ramky Group
 price_starting_from_inr: 19500000
 price_label: 1.95 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 2457-2913
 ratings: 4.1
 ```
-
 ---
 
 # The Spectrum by Ramky
-
 
 ## Description
 The Spectrum by Ramky is an ultra-luxury gated villa community located in Korremula, East Hyderabad. Featuring elegantly designed 4 BHK triplex villas set amidst lush landscapes and serene open spaces, the project offers expansive interiors, premium specifications, and a refined lifestyle supported by world-class amenities and excellent connectivity.
@@ -50,6 +49,9 @@ Thoughtfully designed 4 BHK triplex villa floor plans offering expansive layouts
 - Open Green Spaces
 - 24/7 Security
 - 30+ World-Class Amenities
+
+## Builders
+Ramky Builders are veteran developer with a 30-year legacy in India's real estate sector.
 
 ## Pricing
 Starting Price: ₹ 1.95 Crore onwards

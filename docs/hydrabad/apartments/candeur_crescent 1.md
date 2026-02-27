@@ -8,6 +8,7 @@ zone: West Hyderabad
 developer: Candeur Group
 price_starting_from_inr: 18500000
 price_label: 1.85 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1333-2656
 ratings: 4.6
 ```
@@ -59,6 +60,9 @@ Thoughtfully designed 2.5 & 3 BHK floor plans offering smart layouts, excellent 
 - Conference Room & Workstations
 - 24/7 Security
 - 30+ Premium Lifestyle Amenities
+
+## Builders
+The project is being developed by Candeur Developers & Builders , one of the fastest growing real estate companies in Hyderabad.
 
 ## Pricing
 Starting Price: ₹ 1.85 Crore onwards

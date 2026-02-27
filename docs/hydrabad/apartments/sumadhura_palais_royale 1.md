@@ -7,22 +7,19 @@ zone: West Hyderabad
 developer: Sumadhura Group
 price_starting_from_inr: 56000000
 price_label: 5.6 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 3800-6610
 ratings: 4.2
 ```
-
 ---
 
 # Sumadhura Palais Royale
 
-
 ## Description
 Sumadhura Palais Royale is an ultra-luxury residential apartment project located at Puppalaguda, Hyderabad’s prestigious Financial District. Designed as an iconic landmark, the project offers expansive 4 and 5 BHK residences that combine refined architecture, panoramic Osman Sagar views, smart home automation, and world-class amenities for an elevated lifestyle experience.
 
-
 ## Overview
 Sumadhura Palais Royale is a premium residential development spread across approximately **7 acres**, featuring **3 striking towers rising up to 52 floors** and housing **523 exclusive residences**. The project offers spacious homes ranging from **3,800 to 6,610 sq. ft.**, designed with large balconies, biophilic landscapes, and abundant natural light and ventilation. A distinctive suspended luxury clubhouse, panoramic lake views, and seamless connectivity to major IT hubs, schools, healthcare, and retail destinations make Palais Royale a truly exceptional address for luxury living and long-term investment in Hyderabad.
-
 
 ## Floor Plans
 Meticulously designed 4 and 5 BHK floor plans offering expansive layouts, large balconies, premium specifications, and efficient spatial planning.
@@ -35,7 +32,6 @@ Meticulously designed 4 and 5 BHK floor plans offering expansive layouts, large 
 ## Unit Details
 - 4 BHK Apartments: 3,800 – 4,850 sq. ft.
 - 5 BHK Apartments: 6,100 – 6,610 sq. ft.
-
 
 ## Amenities
 - Suspended Luxury Clubhouse
@@ -56,6 +52,9 @@ Meticulously designed 4 and 5 BHK floor plans offering expansive layouts, large 
 - Pedestrian-Friendly Pathways
 - 24/7 Security
 - 80+ World-Class Amenities
+
+## Builders
+The Sumadhura Group is a leading developer with a 30-year legacy in Hyderabad. 
 
 ## Pricing
 Starting Price: ₹ 5.6 Crore onwards

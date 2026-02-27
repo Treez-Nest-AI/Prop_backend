@@ -7,14 +7,13 @@ zone: West Hyderabad
 developer: Rajapushpa Properties Pvt. Ltd.
 price_starting_from_inr: 12500000
 price_label: 1.25 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1390-2300+
 ratings: 4.5
 ```
-
 ---
 
 # Rajapushpa Pristinia
-
 
 ## Description
 Rajapushpa Pristinia is a premium high-rise residential community by Rajapushpa Properties, located in Kokapet, Hyderabad. Designed to offer modern luxury with serene surroundings, the project features spacious 2 and 3 BHK apartments with contemporary architecture, wide balconies, premium finishes, and abundant natural light.
@@ -26,11 +25,9 @@ Strategically situated near **Financial District, Gachibowli, HITEC City, and Ou
 ## Floor Plans
 Thoughtfully designed 2 and 3 BHK apartments focused on comfort and optimal space utilization.
 
-
 ### Available Configurations
 - 2 BHK Apartments
 - 3 BHK Apartments
-
 
 ## Unit Details
 - 2 BHK Apartments: ~1,390 – 1,450 sq. ft.
@@ -54,6 +51,9 @@ Thoughtfully designed 2 and 3 BHK apartments focused on comfort and optimal spac
 - Power Backup
 - Ample Parking Space
 - Gated Community with Access Control
+
+## Builders
+Rajapushpa builders are Frequently praised for superior construction quality
 
 ## Pricing
 Starting Price: ₹ 1.25 Crore onwards

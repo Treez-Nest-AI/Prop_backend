@@ -7,10 +7,10 @@ zone: West Hyderabad
 developer: Candeur Constructions
 price_starting_from_inr: 13500000
 price_label: 1.35 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1300-2500
 ratings: 4.5
 ```
-
 ---
 
 # Candeur Lakescape
@@ -28,12 +28,10 @@ Thoughtfully designed 2 and 3 BHK residences emphasizing natural light, ventilat
 - 2 BHK Floor Plan
 - 3 BHK Floor Plan
 
-
 ## Unit Details
 - 2 BHK Apartments: 1,300 – 1,400 sq. ft.
 - 3 BHK Apartments: 1,600 – 2,100 sq. ft.
 - 3 BHK Large: 2,200 – 2,500 sq. ft.
-
 
 ## Amenities
 - Grand Clubhouse
@@ -53,6 +51,8 @@ Thoughtfully designed 2 and 3 BHK residences emphasizing natural light, ventilat
 - Ample Basement Parking
 - Gated Community with Access Control
 
+## Builders
+The project is being developed by Candeur Developers & Builders , one of the fastest growing real estate companies in Hyderabad.
 
 ## Pricing
 Starting Price: ₹ 1.35 Crore onwards

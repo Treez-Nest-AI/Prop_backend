@@ -8,10 +8,10 @@ zone: West Hyderabad
 developer: Godrej Properties
 price_starting_from_inr: 29900000
 price_label: 2.99 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 2352-3368
 ratings: 4.0
 ```
-
 ---
 
 # Godrej Madison Avenue
@@ -34,7 +34,6 @@ Thoughtfully designed 3 and 4 BHK floor plans offering efficient layouts, spacio
 - 3 BHK Apartments: 2,352 – 2,477 sq. ft.
 - 4 BHK Apartments: 2,934 – 3,368 sq. ft.
 
-
 ## Amenities
 - Signature Luxury Clubhouse
 - Swimming Pool
@@ -52,6 +51,8 @@ Thoughtfully designed 3 and 4 BHK floor plans offering efficient layouts, spacio
 - 24/7 Security
 - 50+ World-Class Amenities
 
+## Builders
+this project is part of the Godrej Group, they are renowned across India for their quality and reliability.
 
 ## Pricing
 Starting Price: ₹ 2.99 Crore onwards

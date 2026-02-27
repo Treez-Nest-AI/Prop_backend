@@ -7,10 +7,10 @@ zone: West Hyderabad
 developer: Rajapushpa Properties Pvt. Ltd.
 price_starting_from_inr: 12500000
 price_label: 1.25 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1370-2660
 ratings: 4.5
 ```
-
 ---
 
 # Rajapushpa Provincia
@@ -28,7 +28,6 @@ Well-designed 2 and 3 BHK apartments focused on functionality and space efficien
 ### Available Floor Plans
 - 2 BHK Floor Plan
 - 3 BHK Floor Plan
-
 
 ## Unit Details
 - 2 BHK Apartments: ~1,370 – 1,540 sq. ft.
@@ -52,6 +51,9 @@ Well-designed 2 and 3 BHK apartments focused on functionality and space efficien
 - Power Backup
 - Ample Parking Space
 - Gated Community with Access Control
+
+## Builders
+Rajapushpa builders are Frequently praised for superior construction quality
 
 ## Pricing
 Starting Price: ₹ 1.25 Crore onwards

@@ -21,7 +21,6 @@ images:
 
 # Godrej Parkshire
 
-
 ## Description
 Godrej Parkshire is a premium residential apartment project by Godrej Properties, located in Hoskote, North Bangalore. Spread across expansive green landscapes, the project offers elegantly designed 2 and 3 BHK residences that combine modern architecture, refined interiors, and a serene living environment for a balanced urban lifestyle.
 
@@ -37,11 +36,9 @@ Smartly designed 2 and 3 BHK floor plans offering efficient layouts, private bal
 - Floor Plan 2
 - Floor Plan 3
 
-
 ## Unit Details
 - 2 BHK Apartments: 1,050 to 1,200 sq. ft.
 - 3 BHK Apartments: 1,600 to 1,750 sq. ft.
-
 
 ## Amenities
 - Swimming Pool
@@ -63,11 +60,8 @@ Smartly designed 2 and 3 BHK floor plans offering efficient layouts, private bal
 ## Builders
 - Godrej Builder: One of India's largest and most trusted real estate developers, backed by the 128-year legacy of the Godrej Group. 
 
-
 ## Pricing
 Starting Price: ₹ 1.17 Crore onwards
 
-
 ## Review
 Godrej Parkshire offers a refined residential lifestyle in North Bangalore, combining spacious homes, lush open spaces, and a wide range of modern amenities. Backed by the trusted Godrej Properties brand, excellent connectivity, and strong future growth potential, the project is well-suited for families seeking comfort, value, and a future-ready living experience.
-

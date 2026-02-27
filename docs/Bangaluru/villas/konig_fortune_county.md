@@ -17,7 +17,6 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County3.jpg
 ```
-
 ---
 
 # Konig Fortune County

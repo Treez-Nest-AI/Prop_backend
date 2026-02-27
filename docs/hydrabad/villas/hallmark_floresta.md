@@ -7,10 +7,10 @@ zone: West Hyderabad
 developer: Hallmark Builders
 price_starting_from_inr: 45000000
 price_label: 4.50 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 3500-6000
 ratings: 4.5
 ```
-
 ---
 
 # Hallmark Floresta
@@ -25,11 +25,9 @@ Strategically situated near **Financial District, Gachibowli, HITEC City, and Ou
 ## Floor Plans
 Spacious 4 and 5 BHK villa layouts designed for elite family living and maximum comfort.
 
-
 ### Available Floor Plans
 - 4 BHK Luxury Villas
 - 5 BHK Premium Villas
-
 
 ## Unit Details
 - 4 BHK Villas: ~3,500 – 4,500 sq. ft.
@@ -54,6 +52,8 @@ Spacious 4 and 5 BHK villa layouts designed for elite family living and maximum 
 - Underground Utilities
 - Wide Internal Roads
 
+## Buidlers
+Hallmark Builders is a well-known real estate brand in Hyderabad with over 16 years of experience.
 
 ## Pricing
 Starting Price: ₹ 4.50 Crore onwards

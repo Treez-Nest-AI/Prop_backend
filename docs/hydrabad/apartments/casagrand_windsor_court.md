@@ -7,6 +7,7 @@ zone: West Hyderabad
 developer: Casagrand Builder Private Limited
 price_starting_from_inr: 12000000
 price_label: 1.20 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1600-2600
 ratings: 4.0
 ```
@@ -50,6 +51,9 @@ Thoughtfully crafted 3 and 4 BHK residences designed for modern family living.
 - Power Backup
 - Basement Parking
 - Gated Community Access
+
+## Builders
+This project is being built by Casagrand Builder Private Limited, a leading real estate company in South India.
 
 ## Pricing
 Starting Price: ₹ 1.20 Crore onwards

@@ -7,14 +7,13 @@ zone: West Hyderabad
 developer: Rajapushpa Properties Pvt. Ltd.
 price_starting_from_inr: 74500000
 price_label: 7.45 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 5735
 ratings: 4.5
 ```
-
 ---
 
 # Rajapushpa Casa Luxura
-
 
 ## Description
 Rajapushpa Casa Luxura is a premium high-rise residential development in Kokapet offering expansive 4 BHK apartments with contemporary architecture, wide balconies, and luxury specifications designed for elite urban living.
@@ -28,10 +27,8 @@ Spacious 4 BHK residences thoughtfully designed for grand and comfortable living
 ### Available Floor Plans
 - 4 BHK Apartments
 
-
 ## Unit Details
 - 4 BHK: 5,735 sq. ft.
-
 
 ## Amenities
 - Grand Clubhouse
@@ -48,6 +45,9 @@ Spacious 4 BHK residences thoughtfully designed for grand and comfortable living
 - Power Backup
 - Basement Parking
 - Gated Community Access
+
+## Builders
+Rajapushpa builders are Frequently praised for superior construction quality
 
 ## Pricing
 Starting Price: ₹ 7.45 Crore onwards

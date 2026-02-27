@@ -7,10 +7,10 @@ zone: West Hyderabad
 developer: Rajapushpa Properties Pvt. Ltd.
 price_starting_from_inr: 12500000
 price_label: 1.25 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1300-2950
 ratings: 4.1
 ```
-
 ---
 
 # Rajapushpa Imperia
@@ -52,6 +52,9 @@ Well-designed 2, 3, and 4 BHK floor plans emphasizing natural light, ventilation
 - 24/7 Security & CCTV Surveillance
 - Power Backup
 - Ample Parking
+
+## Builders
+Rajapushpa builders are Frequently praised for superior construction quality.
 
 ## Pricing
 Starting Price: ₹ 1.25 Crore onwards

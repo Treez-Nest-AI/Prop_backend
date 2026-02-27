@@ -16,11 +16,9 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Vajram-Vivera2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Vajram-Vivera3.jpg
 ```
-
 ---
 
 # Vajram Vivera
-
 
 ## Description
 Vajram Vivera is a premium residential apartment project located on Kogilu Main Road, North Bangalore. IGBC Platinum pre-certified, the project offers spacious 3 and 4 BHK homes designed with contemporary architecture, smart home features, and biophilic principles, delivering a refined and sustainable urban lifestyle.
@@ -39,7 +37,6 @@ Thoughtfully designed 3 and 4 BHK floor plans offering spacious layouts, wide ba
 ## Unit Details
 - 3 BHK Apartments: 1,573 to 2,069 sq. ft.
 - 4 BHK Apartments: 2,406 sq. ft.
-
 
 ## Amenities
 - Swimming Pool & Dual Pools
@@ -63,11 +60,8 @@ Thoughtfully designed 3 and 4 BHK floor plans offering spacious layouts, wide ba
 ## Builders
 - Vajram Builder: Vajram Group is a Bengaluru-based real estate developer established in 2009. They are known for a "customer-first" approach and a focus on functional, environmentally sustainable residential and commercial spaces.
 
-
 ## Pricing
 Starting Price: ₹ 2.25 Crore onwards
 
-
 ## Review
 Vajram Vivera stands out as a thoughtfully planned luxury residential community in North Bangalore, offering expansive open spaces, biophilic design, smart home automation, and premium amenities. With its IGBC Platinum pre-certification, excellent connectivity, and focus on sustainable living, it is an ideal choice for families seeking a refined, future-ready lifestyle.
-

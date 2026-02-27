@@ -7,10 +7,10 @@ zone: West Hyderabad
 developer: Cybercity Builders & Developers
 price_starting_from_inr: 45000000
 price_label: 4.50 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 4000-6000+
 ratings: 4.5
 ```
-
 ---
 
 # Cybercity Villa Verde
@@ -29,11 +29,9 @@ Spacious 4 and 5 BHK villa configurations crafted for comfortable and upscale fa
 - 4 BHK Luxury Villas
 - 5 BHK Luxury Villas
 
-
 ## Unit Details
 - 4 BHK Villas: ~4,000 – 4,500 sq. ft.
 - 5 BHK Villas: ~5,000 – 5,500 sq. ft.
-
 
 ## Amenities
 - Grand Clubhouse
@@ -53,6 +51,9 @@ Spacious 4 and 5 BHK villa configurations crafted for comfortable and upscale fa
 - Gated Entry with Access Control
 - Underground Utilities
 - Ample Parking
+
+## Builders
+This project is being developed by Cybercity Builders and Developers Pvt Ltd, a reliable real estate firm based in Hyderabad.
 
 ## Pricing
 Starting Price: ₹ 4.50 Crore onwards

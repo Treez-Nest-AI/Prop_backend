@@ -7,6 +7,7 @@ zone: West Hyderabad
 developer: Ramky Estates
 price_starting_from_inr: 11000000
 price_label: 1.10 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1200-2200
 ratings: 4.2
 ```
@@ -54,9 +55,11 @@ Thoughtfully designed 2 and 3 BHK apartments focused on functionality and space 
 - Ample Parking Space
 - Gated Community with Access Control
 
+## Builders
+Ramky Estates & Farms Limited is a highly established developer with over multiple years of experience in the real estate sector.
+
 ## Pricing
 Starting Price: ₹ 1.10 Crore onwards
-
 
 ## Review
 Ramky One Odyssey offers a strong combination of trusted developer reputation, strategic Narsingi location, and well-balanced pricing. With proximity to Hyderabad’s prime IT corridor and steady infrastructure growth, it presents a practical choice for both comfortable living and long-term investment appreciation.

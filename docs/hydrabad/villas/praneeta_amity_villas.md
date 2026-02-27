@@ -7,10 +7,10 @@ zone: North-West Hyderabad
 developer: Praneeta Developers
 price_starting_from_inr: 29600000
 price_label: 2.96 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 3280-3333
 ratings: 4.2
 ```
-
 ---
 
 # Praneeta Amity Villas
@@ -25,16 +25,13 @@ Strategically situated near **Miyapur, Kukatpally, and key connectivity routes t
 ## Floor Plans
 Spacious 4 and 5 BHK triplex villa layouts thoughtfully designed for modern family living and functional luxury.
 
-
 ### Available Floor Plans
 - 4 BHK Triplex Villas
 - 5 BHK Triplex Villas
 
-
 ## Unit Details
 - 4 BHK Villas: 3,294 – 3,333 sq. ft.
 - 5 BHK Villas: 3,280 – 3,333 sq. ft.
-
 
 ## Amenities
 - Premium Clubhouse
@@ -51,6 +48,9 @@ Spacious 4 and 5 BHK triplex villa layouts thoughtfully designed for modern fami
 - Power Backup
 - Wide Internal Roads
 - Visitor Parking
+
+## Builders
+Praneeta Developers is an established real estate firm in Hyderabad known for its focus on quality construction and timely delivery.
 
 ## Pricing
 Starting Price: ₹ 2.96 Crore onwards

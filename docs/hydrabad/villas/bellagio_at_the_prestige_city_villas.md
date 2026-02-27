@@ -7,6 +7,7 @@ zone: South-West Hyderabad
 developer: Prestige Group
 price_starting_from_inr: 110000000
 price_label: 11 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 5767
 ratings: 4.8
 ```
@@ -18,22 +19,18 @@ ratings: 4.8
 ## Description
 Bellagio at The Prestige City is an ultra-luxury gated villa community by Prestige Group, located in Rajendra Nagar, South-West Hyderabad. Designed to deliver world-class sophistication and grandeur, the project offers expansive 5 BHK villas crafted with premium specifications, elegant architecture, and private landscaped spaces. Each villa is thoughtfully designed with grand living and dining areas, large balconies, premium finishes, double-height living spaces (select units), and abundant natural light — offering an exceptional blend of privacy, comfort, and elite lifestyle living.
 
-
 ## Overview
 Bellagio is a premium low-density villa enclave within the iconic The Prestige City Hyderabad township. The project features wide internal roads, landscaped green corridors, and meticulously planned villa layouts that ensure exclusivity and a serene residential environment.
 Strategically located near **Outer Ring Road (ORR), Financial District, Gachibowli, and Rajiv Gandhi International Airport**, the development provides seamless connectivity to major IT hubs, international schools, healthcare centers, and commercial destinations — making it ideal for ultra-luxury homebuyers and high-value investors.
 
-
 ## Floor Plans
 Spacious 5 BHK villa layouts designed to maximize luxury, space, and functional elegance.
-
 
 ### Available Floor Plans
 - 5 BHK Villas
 
 ## Unit Details
 - 5 BHK Villas: ~5,767 sq. ft.
-
 
 ## Amenities
 - Luxury Clubhouse
@@ -53,6 +50,9 @@ Spacious 5 BHK villa layouts designed to maximize luxury, space, and functional 
 - Wide Internal Roads
 - Gated Community with Access Control
 
+
+## Builders
+The project is being developed by Prestige Group, one of India's largest and most trusted real estate companies. 
 
 ## Pricing
 Starting Price: ₹ 11 Crore onwards

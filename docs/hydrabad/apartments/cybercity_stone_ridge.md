@@ -7,6 +7,7 @@ zone: West Hyderabad
 developer: Cybercity Builders & Developers
 price_starting_from_inr: 12000000
 price_label: 1.20 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1250-2400
 ratings: 4.3
 ```
@@ -54,6 +55,9 @@ Thoughtfully planned 2 and 3 BHK residences designed for functional and comforta
 * Power Backup
 * Basement Parking
 * Gated Community Access
+
+## Builders
+This project is being built by Cybercity Builders and Developers Pvt Ltd.
 
 ## Pricing
 Starting Price: ₹ 1.20 Crore onwards

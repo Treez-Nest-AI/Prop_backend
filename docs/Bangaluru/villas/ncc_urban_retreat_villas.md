@@ -16,11 +16,9 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/NCC-Urban-Retreat-Villa2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/NCC-Urban-Retreat-Villa3.jpg
 ```
-
 ---
 
 # NCC Urban Retreat
-
 
 ## Description
 NCC Urban Retreat is an exclusive villa community located at Kyalasanahalli, off Hennur Road, North Bangalore. Offering premium 4 and 5 BHK Mediterranean-style row villas, the project blends timeless architecture, spacious layouts, and resort-style amenities within a private gated enclave designed for refined, future-ready living.
@@ -64,4 +62,3 @@ Starting Price: ₹ 5.49 Crore onwards
 
 ## Review
 NCC Urban Retreat stands out as a premium villa address in North Bangalore, offering Mediterranean-style architecture, spacious private villas, and a resort-inspired lifestyle within a secure, low-density enclave. With excellent connectivity, refined amenities, and NCC Urban’s reputation for quality, it is an ideal choice for families seeking luxury, privacy, and long-term value.
-

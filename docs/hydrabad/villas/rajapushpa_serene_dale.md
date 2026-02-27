@@ -7,6 +7,7 @@ zone: West Hyderabad
 developer: Rajapushpa Properties Pvt. Ltd.
 price_starting_from_inr: 45000000
 price_label: 4.50 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 4800-6500+
 ratings: 5.0
 ```
@@ -14,7 +15,6 @@ ratings: 5.0
 ---
 
 # Rajapushpa Serene Dale
-
 
 ## Description
 Rajapushpa Serene Dale is an ultra-luxury gated villa community by Rajapushpa Properties, located in the prestigious Financial District / Kokapet corridor of Hyderabad. Designed for those who value privacy, exclusivity, and grand living spaces, the project offers expansive 4 and 5 BHK independent villas with premium specifications and refined architectural design.
@@ -26,16 +26,13 @@ Strategically positioned near **Financial District, Gachibowli, and Outer Ring R
 ## Floor Plans
 Spacious 4 and 5 BHK villa layouts designed for grand family living and maximum privacy.
 
-
 ### Available Floor Plans
 - 4 BHK Luxury Villas
 - 5 BHK Luxury Villas
 
-
 ## Unit Details
 - 4 BHK Villas: 4,800 – 5,500 sq. ft.
 - 5 BHK Villas: 5,800 – 6,500 sq. ft.
-
 
 ## Amenities
 - Grand Luxury Clubhouse
@@ -54,6 +51,9 @@ Spacious 4 and 5 BHK villa layouts designed for grand family living and maximum 
 - Power Backup
 - Wide Internal Roads
 - Ample Parking Spaces
+
+## Builders
+Rajapushpa Serene DaleThe project is being built by Rajapushpa Properties Private Limited (RPPL), a prestigious real estate firm in Hyderabad.
 
 ## Pricing
 Starting Price: ₹ 4.50 Crore onwards

@@ -16,7 +16,6 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-Capitol-Residences2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-Capitol-Residences3.jpg
 ```
-
 ---
 
 # Sumadhura Capitol Residences
@@ -64,12 +63,8 @@ Multiple smartly designed 3 and 4 BHK floor plans offering spacious layouts, eff
 ## Builders
 - Sumadhura Builder: Sumadhura Group is a leading South Indian developer with a 30-year legacy and over 50 completed projects. 
 
-
 ## Pricing
-
 Starting Price: ₹ 2.7 Crore onwards
 
 ## Review
-
 Sumadhura Capitol Residences stands out for its prime ITPL-adjacent location, low-density planning, 77% open spaces, Vastu-compliant 3 & 4 BHK homes with work-from-home layouts, and excellent Metro and ORR connectivity, making it a strong choice for professionals and families seeking premium living with high appreciation potential in East Bangalore.
-

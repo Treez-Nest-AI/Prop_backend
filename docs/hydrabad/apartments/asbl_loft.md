@@ -7,6 +7,7 @@ zone: West Hyderabad
 developer: ASBL (Ashoka Builders India Pvt. Ltd.)
 price_starting_from_inr: 19400000
 price_label: 1.94 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1695
 ratings: 4.5
 ```
@@ -27,10 +28,8 @@ Thoughtfully designed 3 BHK residences focused on space efficiency and functiona
 ### Available Floor Plans
 - 3 BHK Apartments
 
-
 ## Unit Details
 - 3 BHK: ~1,695 sq. ft.
-
 
 ## Amenities
 - Modern Clubhouse
@@ -45,6 +44,9 @@ Thoughtfully designed 3 BHK residences focused on space efficiency and functiona
 - Power Backup
 - Basement Parking
 - Gated Community Access
+
+## Builders
+ASBL (Ashoka Builders India Private Limited), a leading real estate firm based in Hyderabad
 
 ## Pricing
 Starting Price: ₹ 1.94 Crore onwards

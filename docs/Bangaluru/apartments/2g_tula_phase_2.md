@@ -17,7 +17,6 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/2G3-Tula.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/2G4-Tula.jpg
 ```
-
 ---
 
 # 2G TULA (Phase 2)

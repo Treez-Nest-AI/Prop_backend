@@ -8,10 +8,10 @@ zone: West Hyderabad
 developer: Candeur Group
 price_starting_from_inr: 85000000
 price_label: 8.5 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 6520-11999
 ratings: 4.0
 ```
-
 ---
 
 # Candeur Skyline 
@@ -54,6 +54,9 @@ Thoughtfully designed 4 BHK sky apartment floor plans offering expansive layouts
 - High-Speed Elevators
 - 24/7 Security
 - 80+ World-Class Amenities
+
+## Builders
+The project is being developed by Candeur Developers & Builders , one of the fastest growing real estate companies in Hyderabad.
 
 ## Pricing
 Starting Price: ₹ 8.5 Crore onwards

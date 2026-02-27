@@ -16,37 +16,30 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-Tea-and-Twilight3.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-Tea-and-Twilight4.jpg
 ```
-
 ---
 
 # Sumadhura's Tea & Twilight
 
 ## Description
-
 Sumadhura's Tea & Twilight is a premium British-themed residential apartment project located in Siddapura, Whitefield, East Bangalore. The project offers elegantly designed 2, 3, and 4 BHK homes inspired by classic colonial architecture, blended with modern luxury, vastu-compliant layouts, and excellent natural light and ventilation.
 
 ## Overview
-
 Envisioned as a 20-acre vertical heritage-inspired eco-luxury community, Edition by Sumadhura (Tea & Twilight) combines timeless British charm with contemporary urban living. The project features expansive open spaces, lush landscaped gardens, tree-lined boulevards, and refined architecture, offering seamless connectivity to IT hubs, top schools, and social infrastructure of Whitefield and East Bangalore.
 
 ## Floor Plans
-
 Multiple smartly designed 2, 3, and 4 BHK floor plans offering spacious layouts, efficient space utilisation, airy balconies, and well-defined living, dining, and utility zones.
 
 ### Available Floor Plans
-
 * Floor Plan 1
 * Floor Plan 2
 * Floor Plan 3
 
 ## Unit Details
-
 * 2 BHK Apartments: 1,280 sq. ft. to 1,360 sq. ft.
 * 3 BHK Apartments: 1,490 sq. ft. to 1,620 sq. ft.
 * 4 BHK Apartments: 1,960 sq. ft. to 2,295 sq. ft.
 
 ## Amenities
-
 * Grand Clubhouse
 * Swimming Pool
 * Fully Equipped Gymnasium
@@ -65,9 +58,7 @@ Multiple smartly designed 2, 3, and 4 BHK floor plans offering spacious layouts,
 - Sumadhura Builder: Sumadhura Group is a leading South Indian developer with a 30-year legacy and over 50 completed projects. 
 
 ## Pricing
-
 Starting Price: ₹ 1.85 Crore onwards
 
 ## Review
-
 Sumadhura's Tea & Twilight stands out for its unique British-themed architecture, expansive 20-acre layout, luxurious 2, 3, and 4 BHK residences, world-class amenities, and prime Whitefield location, making it an ideal choice for families and professionals seeking a refined and tranquil lifestyle in East Bangalore.

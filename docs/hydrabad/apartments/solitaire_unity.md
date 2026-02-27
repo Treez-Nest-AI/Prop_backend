@@ -7,14 +7,13 @@ zone: West Hyderabad
 developer: Technopolis Constructions
 price_starting_from_inr: 10600000
 price_label: 1.06 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1224-2300
 ratings: 4.3
 ```
-
 ---
 
 # Solitaire Unity
-
 
 ## Description
 
@@ -30,7 +29,6 @@ Well-designed 2, 2.5, and 3 BHK floor plans offering functional layouts, ample n
 - 2 BHK Floor Plan
 - 2.5 BHK Floor Plan
 - 3 BHK Floor Plan
-
 
 ## Unit Details
 - 2 BHK Apartments: 1,224 – 1,615 sq. ft.
@@ -50,6 +48,9 @@ Well-designed 2, 2.5, and 3 BHK floor plans offering functional layouts, ample n
 - 24/7 Security & CCTV Surveillance
 - Power Backup
 - Ample Basement Parking
+
+## Builders
+Solitaire Unity Developers are one of the best builders in the Hyderabad real estate market
 
 ## Pricing
 Starting Price: ₹ 1.06 Crore onwards

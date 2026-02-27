@@ -7,14 +7,13 @@ zone: West Hyderabad
 developer: Raghava Projects (RV Group)
 price_starting_from_inr: 11000000
 price_label: 1.10 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1200-2100
 ratings: 4.5
 ```
-
 ---
 
 # RV Vibhavam
-
 
 ## Description
 RV Vibhavam is a premium high-rise residential development by Raghava Projects (RV Group), located in the rapidly growing corridor of Kondapur, West Hyderabad. Designed for modern families, the project offers spacious 2 and 3 BHK apartments that combine smart space planning with contemporary architecture and lifestyle-focused amenities.
@@ -29,7 +28,6 @@ Thoughtfully designed 2 and 3 BHK floor plans offering spacious layouts and func
 ### Available Floor Plans
 - 2 BHK Floor Plan
 - 3 BHK Floor Plan
-
 
 ## Unit Details
 - 2 BHK Apartments: 1,200 – 1,450 sq. ft.
@@ -51,6 +49,9 @@ Thoughtfully designed 2 and 3 BHK floor plans offering spacious layouts and func
 - Basement Parking
 - Lift Access
 - Fire Safety Systems
+
+## Builders
+RV vibhavam builders are highly experienced Hyderabad-based developers with a 30-year legacy.
 
 ## Pricing
 Starting Price: ₹ 1.10 Crore onwards

@@ -7,6 +7,7 @@ zone: West Hyderabad
 developer: Anvita Group
 price_starting_from_inr: 12000000
 price_label: 1.20 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 1295-2400
 ratings: 4.0
 ```
@@ -52,6 +53,9 @@ Well-planned 2 and 3 BHK apartments designed for efficient space utilization and
 - Power Backup
 - Basement Parking
 - Gated Community with Access Control
+
+## Builders
+Anvita builders: Anvita Builders (Anvita Group) is a leading construction company with over 30 years of experience in the real estate sector.
 
 ## Pricing
 Starting Price: ₹ 1.20 Crore onwards

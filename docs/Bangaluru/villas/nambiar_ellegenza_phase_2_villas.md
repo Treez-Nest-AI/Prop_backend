@@ -21,7 +21,6 @@ images:
 
 # Nambiar Ellegenza Phase 2
 
-
 ## Description
 Nambiar Ellegenza Phase 2 is an ultra-luxury villa community located at Kaggalipura, off Sarjapur Road, Bangalore. Spread across more than 17 acres, the project offers exclusive 4 BHK villas with private media rooms, combining contemporary architecture, lush landscapes, and premium specifications for refined, future-ready living.
 
@@ -38,7 +37,6 @@ Thoughtfully designed 4 BHK luxury villa floor plans featuring private media roo
 
 ## Unit Details
 - 4 BHK Luxury Villas: 1,575 to 4,505 sq. ft.
-
 
 ## Amenities
 - Grand Clubhouse
@@ -62,7 +60,5 @@ Thoughtfully designed 4 BHK luxury villa floor plans featuring private media roo
 ## Pricing
 Starting Price: ₹ 5.37 Crore onwards
 
-
 ## Review
 Nambiar Ellegenza Phase 2 stands out as an ultra-luxury villa destination off Sarjapur Road, offering spacious 4 BHK homes with private media rooms, lush green surroundings, and premium amenities within a secure, low-density enclave. With excellent connectivity, refined design, and Nambiar Builders’ strong legacy, it is an ideal choice for discerning buyers seeking privacy, elegance, and long-term value.
-

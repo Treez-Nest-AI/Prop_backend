@@ -7,10 +7,10 @@ zone: West Hyderabad
 developer: Sunrise Infra
 price_starting_from_inr: 9500000
 price_label: 95 Lakhs onwards
+status: Under Construction
 unit_size_range_sqft: 1200-2400
 ratings: 4.2
 ```
-
 ---
 
 # Sunrise Orchard
@@ -34,7 +34,6 @@ Well-planned 2, 3, and 3.5 BHK floor layouts designed to maximize usable space, 
 - 3 BHK Apartments: 1,500 – 2,000 sq. ft.
 - 3.5 BHK Apartments: 2,100 – 2,400 sq. ft.
 
-
 ## Amenities
 - Grand Clubhouse
 - Swimming Pool
@@ -47,6 +46,9 @@ Well-planned 2, 3, and 3.5 BHK floor layouts designed to maximize usable space, 
 - 24/7 Security & CCTV Surveillance
 - Power Backup
 - Ample Parking
+
+## Builders
+Sunrise Orchard builders are one of the growing real estate company in Hyderabad.
 
 ## Pricing
 Starting Price: ₹ 95 Lakhs onwards

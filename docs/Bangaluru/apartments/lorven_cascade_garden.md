@@ -16,7 +16,6 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lorven-Cascade-Garden2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lorven-Cascade-Garden3.jpg
 ```
-
 ---
 
 # Lorven Cascade Garden
@@ -64,10 +63,8 @@ Multiple smartly designed 3 BHK floor plans offering spacious layouts, efficient
 - Lorven Builder: Lorven Builders (also operating as Lorven Ventures or Lorven Structures) is a regional real estate developer with a primary presence in Bengaluru and Hyderabad.
 
 ## Pricing
-
 Starting Price: ₹ 1.45 Crore onwards
 
 ## Review
 
 Lorven Cascade Garden stands out for its low-density planning, 75% open spaces, high 36% UDS, spacious 3 BHK layouts with large balconies, premium specifications, and prime Whitefield location with excellent Metro and ORR connectivity, making it an excellent choice for families and investors seeking long-term value and quality living in East Bangalore.
-

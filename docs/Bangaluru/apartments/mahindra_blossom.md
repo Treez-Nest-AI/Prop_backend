@@ -50,7 +50,6 @@ Well-planned 2, 3, and 4 BHK floor layouts with generous living spaces, balconie
 - Jogging Track  
 - Pet Park
 
-
 ## Builders
 - Mahindra Builder: Mahindra Lifespaces (the real estate arm of the $26+ billion Mahindra Group) is a leader in sustainable urbanisation, currently managing a massive residential and industrial portfolio across India's major metros
 

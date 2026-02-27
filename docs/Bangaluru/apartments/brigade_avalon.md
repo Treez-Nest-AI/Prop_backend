@@ -20,7 +20,6 @@ images:
 
 # Brigade Avalon
 
-
 ## Description
 Brigade Avalon is a luxury residential apartment project located on Whitefield Main Road, East Bangalore. The project offers spacious and elegantly designed 3.5 and 4 BHK residences that combine refined architecture, premium specifications, and world-class amenities for an elevated urban lifestyle.
 
@@ -34,7 +33,6 @@ Thoughtfully crafted 3.5 and 4 BHK floor plans offering expansive layouts, multi
 - Floor Plan 1
 - Floor Plan 2
 - Floor Plan 3
-
 
 ## Unit Details
 - 3.5 BHK Apartments: 2,933 sq. ft.
@@ -63,5 +61,3 @@ Starting Price: ₹ 4.62 Crore onwards
 
 ## Review
 Brigade Avalon stands out as a premium residential address in Whitefield, offering large-format luxury homes, low-density living, excellent connectivity, and an impressive range of lifestyle amenities. Its thoughtful design, generous open spaces, and Brigade Group’s trusted legacy make it an ideal choice for upscale urban living in East Bangalore.
-
-

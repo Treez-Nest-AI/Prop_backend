@@ -7,14 +7,13 @@ zone: West Hyderabad
 developer: Srias Life Spaces
 price_starting_from_inr: 17800000
 price_label: 1.78 Cr onwards
+status: Under Construction
 unit_size_range_sqft: 2290-3040
 ratings: 4.2
 ```
-
 ---
 
 # Srias IWA
-
 
 ## Description
 Srias IWA is a premium gated high-rise community in Kondapur offering spacious 2 and 3.5 BHK residences with modern architecture, expansive balconies, and smart space planning designed for contemporary urban living.
@@ -29,11 +28,9 @@ Thoughtfully designed residences focused on space, ventilation, and privacy.
 - 2 BHK Apartments
 - 3.5 BHK Apartments
 
-
 ## Unit Details
 - 2 BHK: 2,290 sq. ft.
 - 3.5 BHK: 3,040 sq. ft.
-
 
 ## Amenities
 - Modern Clubhouse
@@ -51,6 +48,8 @@ Thoughtfully designed residences focused on space, ventilation, and privacy.
 - Ample Parking
 - Gated Community Access
 
+## Builders
+srias builders is a Hyderabad-based developer known for premium high-rise projects.
 
 ## Pricing
 Starting Price: ₹ 1.78 Crore onwards

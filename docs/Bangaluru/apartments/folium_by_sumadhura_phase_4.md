@@ -16,7 +16,6 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/FoliumbySumadhura%E2%80%93Phase43.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/FoliumbySumadhura%E2%80%93Phase44.jpg
 ```
-
 ---
 
 # Folium by Sumadhura – Phase 4
@@ -65,12 +64,8 @@ Multiple smartly designed 3 and 4 BHK floor plans offering expansive layouts, ef
 - Folium by Sumadhura Builder: Folium by Sumadhura is a premium residential township by the Sumadhura Group, located on Borewell Road, Whitefield, Bengaluru. 
 
 ## Pricing
-
 Starting Price: ₹ 2.24 Crore onwards
 EOI BSP: ₹ 13,750 / sq. ft.
 
 ## Review
-
 Folium by Sumadhura – Phase 4 stands out for its expansive 16.5-acre layout, grand central landscape, resort-style amenities, premium 3 and 4 BHK residences, and prime Whitefield location, making it an excellent choice for discerning homebuyers seeking luxury, comfort, and long-term value in East Bangalore.
-
-
