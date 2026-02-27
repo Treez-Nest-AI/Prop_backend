@@ -6,6 +6,7 @@ location: Kaggalipura, Off Sarjapur Road, Bangalore
 zone: South East Bangalore
 developer: Nambiar Builders
 price_starting_from_inr: 53700000
+status: Under Construction
 price_label: 5.37 Cr onwards
 unit_size_range_sqft: 1575-4505
 ratings: 4.4
@@ -54,6 +55,9 @@ Thoughtfully designed 4 BHK luxury villa floor plans featuring private media roo
 - Dedicated Recreation Areas
 - 24/7 Gated Security
 - 50+ World-Class Amenities
+
+## Builders
+- Nambiar builder: They are best known for creating massive, nature-centric luxury villa townships and high-end apartments, primarily in the Sarjapur Road and East Bengaluru corridors.
 
 ## Pricing
 Starting Price: ₹ 5.37 Crore onwards

@@ -6,6 +6,7 @@ location: Thanisandra, Bangalore
 zone: North Bangalore
 developer: Puravankara
 price_starting_from_inr: 27000000
+status: Ready to Move In
 ratings: 4.2
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Purva-Atmosphere.jpg
@@ -37,6 +38,9 @@ Multiple intelligently planned 3 BHK layouts with functional interiors and enhan
 - Yoga Zone  
 - Running Track  
 - 50+ World-Class Amenities  
+
+## Builders
+- Purva Builder: Puravankara Limited (operating under the brands Purva, Provident, and Purva Land) is a Tier-1 developer with a 50-year legacy.
 
 ## Pricing
 Starting from ₹ 2.7 Cr onwards

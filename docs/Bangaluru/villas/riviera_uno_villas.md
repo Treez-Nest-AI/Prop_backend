@@ -6,6 +6,7 @@ location: Soukya Road, Kacharakanahalli, Bangalore
 zone: East Bangalore
 developer: Goyal Co | Hariyana Group
 price_starting_from_inr: 49100000
+status: Under Construction
 price_label: 4.91 Cr onwards
 unit_size_range_sqft: 3450-3490
 ratings: 4.2
@@ -53,6 +54,10 @@ Thoughtfully designed 4 BHK luxury villa floor plans featuring private open deck
 - Clubhouse Facilities
 - 24/7 Gated Security
 - 50+ World-Class Amenities
+
+
+## Builders
+- Riviera builder: In Indian real estate, the name "Riviera" most commonly refers to the flagship series of projects by Goyal & Co. | Hariyana Group, 
 
 ## Pricing
 Starting Price: ₹ 4.91 Crore onwards

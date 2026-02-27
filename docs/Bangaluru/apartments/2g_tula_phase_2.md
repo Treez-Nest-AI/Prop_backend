@@ -9,6 +9,7 @@ developer: 2G Developers
 price_starting_from_inr: 18000000
 price_label: 1.8 Cr onwards
 unit_size_range_sqft: 1827-1971
+status: Under Construction
 ratings: 4.2
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/2G1-Tula.jpg
@@ -45,6 +46,9 @@ Multiple smartly designed 3 BHK floor plans offering spacious layouts, efficient
 - Swimming Pool  
 - Dance & Music Rooms  
 - 40+ World-Class Amenities  
+
+## Builders
+- 2G Tula Builders: The project is designed with a "vertical community" concept, focusing on social interaction and sustainable urban living
 
 ## Pricing
 Starting Price: ₹ 1.8 Crore onwards

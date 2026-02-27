@@ -6,6 +6,7 @@ location: Whitefield, Bangalore
 zone: East Bangalore
 developer: Trifecta Projects
 price_starting_from_inr: 28000000
+status: Under Construction
 price_label: 2.8 Cr onwards
 unit_size_range_sqft: 2914-3934
 ratings: 4.2
@@ -43,6 +44,9 @@ Intelligently designed 4 BHK row house layouts featuring expansive living areas,
 - Conference Room  
 - Cafeteria  
 - 10+ World-Class Amenities  
+
+## Builders
+- Trifecta builder: Trifecta Projects is a prominent Bengaluru-based developer known for its "no-nonsense" approach to mid-luxury housing, primarily in the Whitefield and East Bengaluru corridors.
 
 ## Pricing
 Starting Price: ₹ 2.8 Crore onwards

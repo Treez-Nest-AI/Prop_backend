@@ -8,6 +8,7 @@ developer: Concorde Group
 price_starting_from_inr: 11000000
 price_label: 1.1 Cr onwards
 unit_size_range_sqft: 1107-1539
+status: Under Construction
 ratings: 4.6
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO.jpg
@@ -44,6 +45,9 @@ Multiple smartly designed 2 and 3 BHK floor plans featuring efficient layouts an
 - Virtual Golf  
 - Business Lounge  
 - 35+ World-Class Amenities  
+
+## Builders
+- Concorde Builder: Concorde Group is a major real estate developer based in Bengaluru, established in 1998. As of early 2026, they have a significant portfolio of over 24 residential and commercial projects covering 24 million square feet.
 
 ## Pricing
 Starting Price: ₹ 1.1 Crore onwards

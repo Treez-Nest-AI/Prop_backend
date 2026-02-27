@@ -6,6 +6,7 @@ location: Siddapura, Whitefield, East Bangalore
 zone: East Bangalore
 developer: Sumadhura Group
 price_starting_from_inr: 18500000
+status: New Launch
 price_label: 1.85 Cr onwards
 unit_size_range_sqft: 1280-2295
 ratings: 4.4
@@ -59,6 +60,9 @@ Multiple smartly designed 2, 3, and 4 BHK floor plans offering spacious layouts,
 * Senior Citizen Sit-outs
 * 24/7 Security
 * 60+ World-Class Amenities
+
+## Builders
+- Sumadhura Builder: Sumadhura Group is a leading South Indian developer with a 30-year legacy and over 50 completed projects. 
 
 ## Pricing
 

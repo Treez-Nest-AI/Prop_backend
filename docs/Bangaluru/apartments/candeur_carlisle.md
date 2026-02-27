@@ -9,6 +9,7 @@ developer: Candeur Developers
 price_starting_from_inr: 15000000
 price_label: 1.5 Cr onwards
 unit_size_range_sqft: 1135-1460
+status: Ready to move In
 ratings: 4.0
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Candeur-Carlisle.jpg
@@ -45,6 +46,9 @@ Multiple smartly designed 2 and 3 BHK floor plans with efficient layouts and spa
 - Landscaped Gardens  
 - 24/7 Security  
 - 50+ World-Class Amenities  
+
+## Builders
+- Candeur Builders: Candeur Builders (Candeur Constructions) is a prominent real estate developer in South India, primarily operating in Hyderabad and Bengaluru
 
 ## Pricing
 Starting Price: ₹ 1.5 Crore onwards

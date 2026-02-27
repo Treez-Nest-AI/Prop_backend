@@ -8,6 +8,7 @@ developer: Sumadhura Group
 price_starting_from_inr: 22400000
 price_label: 2.24 Cr onwards
 unit_size_range_sqft: 1630-2420
+status: Under Construction
 ratings: 4.0
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/FoliumbySumadhura%E2%80%93Phase41.jpg
@@ -59,6 +60,9 @@ Multiple smartly designed 3 and 4 BHK floor plans offering expansive layouts, ef
 * Senior Citizen Sit-outs
 * 24/7 Security
 * 70+ World-Class Amenities
+
+## Builders
+- Folium by Sumadhura Builder: Folium by Sumadhura is a premium residential township by the Sumadhura Group, located on Borewell Road, Whitefield, Bengaluru. 
 
 ## Pricing
 

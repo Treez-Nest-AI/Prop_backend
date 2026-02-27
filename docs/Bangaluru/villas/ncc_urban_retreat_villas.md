@@ -6,6 +6,7 @@ location: Kyalasanahalli, Off Hennur Road, Bangalore
 zone: North Bangalore
 developer: NCC Urban
 price_starting_from_inr: 54900000
+status: Under Construction
 price_label: 5.49 Cr onwards
 unit_size_range_sqft: 3565-4460
 ratings: 5.0
@@ -54,6 +55,9 @@ Thoughtfully designed 4 and 5 BHK Mediterranean-style row villa floor plans offe
 - Clubhouse Facilities
 - 24/7 Gated Security
 - 40+ World-Class Amenities
+
+## Builders
+- NCC builder: hey are known for leveraging high-end engineering expertise from major turnkey projects—like bridges and townships—into residential real estate. 
 
 ## Pricing
 Starting Price: ₹ 5.49 Crore onwards

@@ -6,6 +6,7 @@ location: Sarjapur Road, Bangalore
 zone: East Bangalore
 developer: Adarsh Group
 price_starting_from_inr: 54000000
+status: Under Construction
 price_label: 5.4 Cr onwards
 unit_size_range_sqft: 3492-4228
 ratings: 4.2
@@ -43,6 +44,9 @@ Multiple well-planned 4 BHK villa layouts featuring expansive living areas, priv
 - Swimming Pool  
 - Community Spaces  
 - 20+ World-Class Amenities  
+
+## Builders
+- Adarsh builder: They are renowned for pioneering the "luxury gated villa" concept in India with projects like Adarsh Palm Meadows.
 
 ## Pricing
 Starting Price: ₹ 5.4 Crore onwards

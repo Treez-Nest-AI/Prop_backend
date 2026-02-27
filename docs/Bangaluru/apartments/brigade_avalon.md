@@ -8,6 +8,7 @@ developer: Brigade Group
 price_starting_from_inr: 46200000
 price_label: 4.62 Cr onwards
 unit_size_range_sqft: 2933-3862
+status: Under Construction
 ratings: 4.1
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Avalon.jpg
@@ -53,6 +54,9 @@ Thoughtfully crafted 3.5 and 4 BHK floor plans offering expansive layouts, multi
 - 25,000 sq. ft. Clubhouse
 - 24/7 Security
 - 90+ World-Class Amenities
+
+## Builders
+- Brigade Builders: maintains a robust market presence with a diversified portfolio spanning residential, commercial, retail, and hospitality sectors across South India
 
 ## Pricing
 Starting Price: ₹ 4.62 Crore onwards

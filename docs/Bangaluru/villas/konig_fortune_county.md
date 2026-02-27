@@ -6,6 +6,7 @@ location: Budigere Cross, Whitefield Extension, Bangalore
 zone: East Bangalore
 developer: Konig Homes
 price_starting_from_inr: 29000000
+status: Under Construction
 price_label: 2.9 Cr onwards
 unit_size_range_sqft: 2600-4400
 approvals: BMRDA, RERA
@@ -45,6 +46,9 @@ Multiple well-planned 4 BHK villa layouts featuring expansive living spaces, pri
 - Covered Parking  
 - Landscaped Gardens  
 - 25+ World-Class Amenities  
+
+## Builders
+- Konig  builder: Konig Homes is a premium real estate developer based in Bengaluru, specializing in luxury gated villa communities. 
 
 ## Pricing
 Starting Price: ₹ 2.9 Crore onwards

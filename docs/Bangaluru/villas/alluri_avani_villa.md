@@ -6,6 +6,7 @@ location: Kammasandra, Bangalore
 zone: South-East Bangalore
 developer: Alluri Developers
 price_starting_from_inr: 40000000
+status: Near by possession
 price_label: 4 Cr onwards
 unit_size_range_sqft: 3563-4645
 ratings: 4.4
@@ -43,6 +44,9 @@ Multiple well-designed 4 BHK villa floor plans featuring expansive living areas,
 - Library  
 - Co-Working Space  
 - 15+ World-Class Amenities  
+
+## Builders
+- Alluri builder: they have a diversified presence in residential, commercial, and agricultural projects across Telangana and Bengaluru.
 
 ## Pricing
 Starting Price: ₹ 4 Crore onwards

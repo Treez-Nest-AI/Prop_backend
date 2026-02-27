@@ -8,6 +8,7 @@ developer: Nambiar Builders
 price_starting_from_inr: 17000000
 price_label: 1.7 Cr onwards
 unit_size_range_sqft: 1245-2995
+status: Under Construction
 ratings: 4.6
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Nambiar-District25-Phase+2.jpg
@@ -51,6 +52,9 @@ Multiple intelligently designed 2, 3, 4 & 4.5 BHK floor plans offering large liv
 - Spa & Wellness Center
 - Barbecue Area
 - 60+ World-Class Lifestyle Amenities
+
+## Builders
+- Nambiar Builder: Nambiar is generally viewed as a top-tier alternative to larger national brands like Godrej or Prestige for those specifically seeking high-end gated communities in East Bengaluru.
 
 ## Pricing
 Starting Price: ₹ 1.7 Crore onwards

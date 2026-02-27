@@ -8,6 +8,7 @@ developer: Brigade Group
 price_starting_from_inr: 20700000
 price_label: 2.07 Cr onwards
 unit_size_range_sqft: 1763-2533
+status: Under Construction
 ratings: 4.5
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Brigade-Citrine.jpg
@@ -59,6 +60,9 @@ Thoughtfully designed 3 and 4 BHK floor plans offering spacious layouts, wide ba
 - 24/7 Security
 - 50+ World-Class Amenities
 
+
+## Builders
+-Brigade Builders: maintains a robust market presence with a diversified portfolio spanning residential, commercial, retail, and hospitality sectors across South India
 
 ## Pricing
 Starting Price: ₹ 2.07 Crore onwards

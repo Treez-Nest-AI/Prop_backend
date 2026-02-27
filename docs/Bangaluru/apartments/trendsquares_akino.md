@@ -6,6 +6,7 @@ location: Panathur, Whitefield, East Bangalore
 zone: East Bangalore
 developer: Trendsquares Constructions
 price_starting_from_inr: 17000000
+status: Under Construction
 price_label: 1.70 Cr onwards
 unit_size_range_sqft: 1580-2010
 ratings: 3.7
@@ -58,8 +59,10 @@ Multiple smartly designed 3 & 4 BHK floor plans offering spacious layouts, effic
 * 50+ World-Class Amenities
 
 
-## Pricing
+## Builders
+- Trendsquares builder: Trendsquares Constructions is a prominent Bengaluru-based real estate developer established in 2008, known for mid-range to luxury high-rise projects in the city's growth corridors
 
+## Pricing
 Starting Price: ₹ 1.70 Crore onwards
 
 

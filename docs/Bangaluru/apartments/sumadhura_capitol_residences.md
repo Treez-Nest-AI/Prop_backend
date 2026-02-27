@@ -6,6 +6,7 @@ location: Whitefield, East Bangalore (Next to ITPL)
 zone: East Bangalore
 developer: Sumadhura Group
 price_starting_from_inr: 27000000
+status: Under Construction
 price_label: 2.7 Cr onwards
 unit_size_range_sqft: 1635-2150
 ratings: 4.8
@@ -59,6 +60,9 @@ Multiple smartly designed 3 and 4 BHK floor plans offering spacious layouts, eff
 * Children’s Play Areas
 * Landscaped Open Spaces
 * 50+ World-Class Amenities
+
+## Builders
+- Sumadhura Builder: Sumadhura Group is a leading South Indian developer with a 30-year legacy and over 50 completed projects. 
 
 
 ## Pricing

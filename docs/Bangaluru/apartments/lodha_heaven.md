@@ -8,6 +8,7 @@ developer: Lodha Group
 price_starting_from_inr: 23600000
 price_label: 2.36 Cr onwards
 unit_size_range_sqft: 1076-2225
+status: Under Construction
 ratings: 4.0
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lodha-Heaven.jpg
@@ -59,6 +60,9 @@ Multiple smartly designed 3, 3.5, 3.5 Luxe, and 4.5 BHK floor plans offering spa
 * Children’s Play Village
 * Temple Area
 * 40+ World-Class Amenities
+
+## Builders
+- Lodha Builder: The masters of luxury and scale. If you want a 5-star lifestyle (concierge, massive clubhouses), they are the leaders
 
 
 ## Pricing

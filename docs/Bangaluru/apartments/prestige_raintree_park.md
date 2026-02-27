@@ -6,6 +6,7 @@ location: Whitefield, Bangalore
 zone: East Bangalore
 developer: Prestige Group
 price_starting_from_inr: 28000000
+status: Under Construction
 landmark: Varthur Lake
 ratings: 3.4
 images:
@@ -39,6 +40,9 @@ Multiple smartly designed 3, 4, and 5 BHK layouts with spacious living areas and
 - Viewing Deck & Pavilions  
 - Grand Lobby  
 - 34+ World-Class Amenities  
+
+## Builders
+- Prestige Builder: Prestige Group (Prestige Estates Projects Ltd.) is a tier-1 Indian real estate developer headquartered in Bengaluru
 
 ## Pricing
 Starting from ₹ 2.8 Cr onwards

@@ -8,6 +8,7 @@ developer: Godrej Properties
 price_starting_from_inr: 11700000
 price_label: 1.17 Cr onwards
 unit_size_range_sqft: 1050-1750
+status: Under Construction
 ratings: 4.4
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Godrej-Parkshire.jpg
@@ -58,6 +59,9 @@ Smartly designed 2 and 3 BHK floor plans offering efficient layouts, private bal
 - Clubhouse & Social Spaces
 - 24/7 Security
 - 40+ World-Class Amenities
+
+## Builders
+- Godrej Builder: One of India's largest and most trusted real estate developers, backed by the 128-year legacy of the Godrej Group. 
 
 
 ## Pricing

@@ -6,6 +6,7 @@ location: Marathahalli ORR / Whitefield, Bangalore
 zone: East Bangalore
 developer: SOBHA Limited
 price_starting_from_inr: 9800000
+status: Under Construction
 ratings: 3.2
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SOBHA-NEOPOLIS.jpg
@@ -38,6 +39,9 @@ Efficient layouts across all configurations with spacious interiors.
 - Tennis Court  
 - Kids Play Area  
 - 35+ World-Class Amenities  
+
+## Builders
+- Sobha Builder: Sobha Limited is widely regarded as India’s most quality-conscious builder, uniquely known for its backward integration model—meaning they manufacture their own concrete, glass, and even woodwork to ensure precision.
 
 ## Pricing
 Starting from ₹ 98 Lakhs onwards

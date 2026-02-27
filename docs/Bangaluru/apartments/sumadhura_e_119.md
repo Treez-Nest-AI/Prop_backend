@@ -6,6 +6,7 @@ location: Tubarahalli, Whitefield, East Bangalore
 zone: East Bangalore
 developer: Sumadhura Group
 price_starting_from_inr: 24000000
+status: New Launch 
 price_label: 2.4 Cr onwards
 unit_size_range_sqft: 1705-2730
 ratings: 4.4
@@ -59,6 +60,10 @@ Multiple smartly designed 3 and 4 BHK floor plans offering spacious layouts, eff
 * Senior Citizen Sit-outs
 * 24/7 Security
 * 90+ World-Class Amenities
+
+## Builders
+- Sumadhura Builder: Sumadhura Group is a leading South Indian developer with a 30-year legacy and over 50 completed projects. 
+
 
 ## Pricing
 

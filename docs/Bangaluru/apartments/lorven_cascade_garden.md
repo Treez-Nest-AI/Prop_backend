@@ -8,6 +8,7 @@ developer: Lorven Group
 price_starting_from_inr: 14500000
 price_label: 1.45 Cr onwards
 unit_size_range_sqft: 1325-1785
+status: Under Construction
 ratings: 4.4
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Lorven-Cascade-Garden.jpg
@@ -58,6 +59,9 @@ Multiple smartly designed 3 BHK floor plans offering spacious layouts, efficient
 * Pet Park
 * Jogging Track
 * 50+ World-Class Amenities
+
+# Builders
+- Lorven Builder: Lorven Builders (also operating as Lorven Ventures or Lorven Structures) is a regional real estate developer with a primary presence in Bengaluru and Hyderabad.
 
 ## Pricing
 

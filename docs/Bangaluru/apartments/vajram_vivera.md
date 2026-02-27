@@ -6,6 +6,7 @@ location: Kogilu Main Road, Bangalore
 zone: North Bangalore
 developer: Vajram Group
 price_starting_from_inr: 22500000
+status: Under Construction
 price_label: 2.25 Cr onwards
 unit_size_range_sqft: 1573-2406
 ratings: 4.7
@@ -58,6 +59,9 @@ Thoughtfully designed 3 and 4 BHK floor plans offering spacious layouts, wide ba
 - Two State-of-the-Art Clubhouses
 - 24/7 Security
 - 50+ World-Class Amenities
+
+## Builders
+- Vajram Builder: Vajram Group is a Bengaluru-based real estate developer established in 2009. They are known for a "customer-first" approach and a focus on functional, environmentally sustainable residential and commercial spaces.
 
 
 ## Pricing

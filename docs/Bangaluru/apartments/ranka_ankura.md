@@ -6,6 +6,7 @@ location: Thanisandra Main Road, Bangalore
 zone: North Bangalore
 developer: Ranka Group
 price_starting_from_inr: 13000000
+status: Under Construction
 ratings: 3.8
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Ranka-Ankura1.jpg
@@ -38,6 +39,9 @@ Efficiently planned 2, 3, and 4 BHK layouts offering spacious interiors and func
 - Virtual Golf  
 - Business Lounge  
 - 35+ World-Class Amenities  
+
+## Builders
+- Ranka Builder: Ranka Group is one of Bengaluru's oldest and most established real estate firms, credited with pioneering the concept of self-sustained apartment complexes in the city as early as the 1970s.
 
 ## Pricing
 Starting from ₹ 1.3 Cr onwards

@@ -5,6 +5,7 @@ provider:
   name: aws
   runtime: nodejs18.x
   region: ap-south-1
+  logRetentionInDays: 7
   role: arn:aws:iam::344961840420:role/sharepost-role
 
   environment:

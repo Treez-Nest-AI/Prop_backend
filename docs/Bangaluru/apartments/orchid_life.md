@@ -8,6 +8,7 @@ developer: Orchid Developers
 price_starting_from_inr: 9200000
 price_label: 92 Lakhs onwards
 unit_size_range_sqft: 811-1863
+status: Under Construction
 ratings: 3.8
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Orchid-Life.jpg
@@ -44,6 +45,9 @@ Multiple smartly designed 2 and 3 BHK floor plans featuring efficient layouts an
 - Mini Theater  
 - Business Lounge  
 - 25+ World-Class Amenities  
+
+## Builders
+- Orchid Builder: "Orchid" in Indian real estate primarily refers to the "Orchid" brand of projects developed by Goyal & Co. | Hariyana Group,
 
 ## Pricing
 Starting Price: ₹ 92 Lakhs onwards

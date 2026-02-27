@@ -6,6 +6,7 @@ location: Hopefarm, Whitefield, Bangalore
 zone: East Bangalore
 developer: SBR Group
 price_starting_from_inr: 17000000
+status: Under Construction
 ratings: 4.3
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/SBR-ONE-RESIDENCES.jpg
@@ -37,6 +38,9 @@ Multiple well-planned 2.5 and 3 BHK layouts with spacious interiors.
 - Cricket Pitch  
 - Pool Deck  
 - 50+ World-Class Amenities  
+
+## Builders
+- SBR Builder: SBR Group is a fast-growing, integrated real estate developer primarily active in East Bengaluru (Whitefield and KR Puram areas)
 
 ## Pricing
 Starting from ₹ 1.7 Cr onwards

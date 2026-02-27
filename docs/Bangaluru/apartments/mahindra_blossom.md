@@ -8,6 +8,7 @@ developer: Mahindra Lifespaces
 price_starting_from_inr: 19000000
 price_label: 1.9 Cr onwards
 unit_size_range_sqft: 931-1689
+status: New Launch 
 ratings: 4.2
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Mahindra-Blossom.jpg
@@ -47,7 +48,11 @@ Well-planned 2, 3, and 4 BHK floor layouts with generous living spaces, balconie
 - Tennis Court  
 - Kids Play Area  
 - Jogging Track  
-- Pet Park  
+- Pet Park
+
+
+## Builders
+- Mahindra Builder: Mahindra Lifespaces (the real estate arm of the $26+ billion Mahindra Group) is a leader in sustainable urbanisation, currently managing a massive residential and industrial portfolio across India's major metros
 
 ## Pricing
 Starting Price: ₹ 1.9 Crore onwards
