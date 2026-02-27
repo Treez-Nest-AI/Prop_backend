@@ -12,10 +12,11 @@ approvals: BMRDA, RERA
 ratings: 4.6
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County.jpg
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County1.png
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Konig-Fortune-County3.jpg
 ```
+
 ---
 
 # Konig Fortune County

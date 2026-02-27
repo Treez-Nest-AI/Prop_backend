@@ -10,10 +10,10 @@ price_label: 2.24 Cr onwards
 unit_size_range_sqft: 1630-2420
 ratings: 4.0
 images:
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Folium+by+Sumadhura+%E2%80%93+Phase+41.jpg
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Folium+by+Sumadhura+%E2%80%93+Phase+42.jpg
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Folium+by+Sumadhura+%E2%80%93+Phase+43.jpg
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Folium+by+Sumadhura+%E2%80%93+Phase+44.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/FoliumbySumadhura%E2%80%93Phase41.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/FoliumbySumadhura%E2%80%93Phase42.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/FoliumbySumadhura%E2%80%93Phase43.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/FoliumbySumadhura%E2%80%93Phase44.jpg
 ```
 
 ---

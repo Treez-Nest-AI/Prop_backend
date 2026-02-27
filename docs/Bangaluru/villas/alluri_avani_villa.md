@@ -11,7 +11,7 @@ unit_size_range_sqft: 3563-4645
 ratings: 4.4
 images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Alluri-Avani-Villa.jpg
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Alluri-Avani-Villa1.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Alluri-Avani-Villa1.png
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Alluri-Avani-Villa2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Alluri-Avani-Villa3.jpg
 ```

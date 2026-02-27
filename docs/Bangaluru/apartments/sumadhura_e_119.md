@@ -10,10 +10,10 @@ price_label: 2.4 Cr onwards
 unit_size_range_sqft: 1705-2730
 ratings: 4.4
 images:
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura+E-119.jpg
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura1+E-119.webp
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura2+E-119.jpg
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura3+E-119.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura-E-119.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura1-E-119.webp
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura2-E-119.jpg
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Sumadhura3-E-119.jpg
 ```
 
 ---
