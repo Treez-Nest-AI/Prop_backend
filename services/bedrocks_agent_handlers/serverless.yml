@@ -7,10 +7,10 @@ provider:
   runtime: nodejs18.x
   region: ${opt:region, 'ap-south-1'}
   stage: ${opt:stage, 'dev'}
-  role: arn:aws:iam::344961840420:role/sharepost-role
+  # role: arn:aws:iam::344961840420:role/sharepost-role
   environment:
-    AGENT_ID: 'ASCTXFTLSV'
-    AGENT_ALIAS_ID: 'K4QVHSGGGB'
+    AGENT_ID: 'HH0EZLKXD9'
+    AGENT_ALIAS_ID: 'Z0ONJIVXBK'
   iam:
     role:
       statements:

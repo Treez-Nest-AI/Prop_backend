@@ -14,7 +14,7 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO1.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO2.jpg
-  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO3.jpg.png
+  - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/Concorde-NEO3.png
 ```
 ---
 
