@@ -10,15 +10,25 @@ const corsHeaders = {
 
 exports.handler = async (event) => {
   try {
-    const body = JSON.parse(event.body);
-    const { name, phone, date } = body;
+    if (event.httpMethod === "OPTIONS") {
+      return {
+        statusCode: 200,
+        headers: corsHeaders,
+        body: JSON.stringify({ message: "CORS preflight" }),
+      };
+    }
 
-    if (!name || !phone || !date) {
+    const body = JSON.parse(event.body);
+
+    const { name, phone, propertyName, visitDate } = body;
+
+    // ✅ Validation
+    if (!name || !phone || !propertyName || !visitDate) {
       return {
         statusCode: 400,
         headers: corsHeaders,
         body: JSON.stringify({
-          message: "Name, phone, and date are required",
+          message: "All fields are required",
         }),
       };
     }
@@ -34,11 +44,23 @@ exports.handler = async (event) => {
       };
     }
 
+    const today = new Date().toISOString().split("T")[0];
+    if (visitDate < today) {
+      return {
+        statusCode: 400,
+        headers: corsHeaders,
+        body: JSON.stringify({
+          message: "Past dates are not allowed",
+        }),
+      };
+    }
+
+    // ✅ Insert with correct column names
     const result = await pool.query(
-      `INSERT INTO leads (name, phone, lead_date)
-       VALUES ($1, $2, $3)
+      `INSERT INTO leads (name, phone, property_name, lead_date)
+       VALUES ($1, $2, $3, $4)
        RETURNING *;`,
-      [name, phone, date]
+      [name, phone, propertyName, visitDate]
     );
 
     return {
