@@ -217,12 +217,12 @@ Status definitions:
 
 ## PLOTS
 
-### East Bangalore Plots
+### Bettenahalli Plots
+1. **Prestige Marigold Phase 2** -> `prestige_marigold_phase_2.md`
 
-1. **Ivy County** → `ivy_county.md`
+### Devanahalli Plots
+1. **Brigade Oasis Phase 2** -> `brigade_oasis_phase_2.md`
+2. **Godrej Reserve Phase 2** -> `godrej_reserve_phase_2.md`
 
-### North Bangalore Plots
-
-2. **Godrej Reserve Phase 2** → `godrej_reserve_phase_2.md`
-3. **Prestige Marigold Phase 2** → `prestige_marigold_phase_2.md`
-4. **Brigade Oasis Phase 2** → `brigade_oasis_phase_2.md`
+### Sarjapur Road Plots
+1. **Ivy County** -> `ivy_county.md`

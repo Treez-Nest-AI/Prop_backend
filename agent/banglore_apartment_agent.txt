@@ -226,35 +226,187 @@ Status definitions:
 
 ## APARTMENTS
 
-### East Bangalore Apartments
+### Bagalur Apartments
 
-1. **2G TULA Phase 2** → `2g_tula_phase_2.md`
-2. **Nambiar District 25 Phase 2** → `nambiar_district_25_phase_2.md`
-3. **Orchid Life** → `orchid_life.md`
-4. **Prestige Raintree Park** → `prestige_raintree_park.md`
-5. **SBR One Residences** → `sbr_one_residences.md`
-6. **SOBHA Neopolis** → `sobha_neopolis.md`
-7. **Sumadhura Capitol Residences** → `sumadhura_capitol_residences.md`
-8. **Sumadhura E-119** → `sumadhura_e_119.md`
-9. **Sumadhura's Tea & Twilight** → `sumadhuras_tea_twilight.md`
-10. **Trendsquares Akino** → `trendsquares_akino.md`
-11. **Mahindra Blossom** → `mahindra_blossom.md`
-12. **Folium by Sumadhura – Phase 4** → `folium_by_sumadhura_phase_4.md`
-13. **Lorven Cascade Garden** → `lorven_cascade_garden.md`
-16. **Candeur Carlisle** → `candeur_carlisle.md`
-17. **Brigade Avalon** → `brigade_avalon.md`
-18. **Brigade Citrine** → `brigade_citrine.md`
+1. **Assetz Mizumi Reserve** -> `assetz_mizumi_reserve.md`
 
-### North Bangalore Apartments
+### Bannerghatta Road Apartments
 
-14. **Purva Atmosphere** → `purva_atmosphere.md`
-15. **Ranka Ankura** → `ranka_ankura.md`
-19. **Concorde NEO** → `concorde_neo.md`
-20. **Godrej Parkshire** → `godrej_parkshire.md`
-21. **Vajram Vivera** → `vajram_vivera.md`
+1. **Birla Jasvi** -> `birla_jasvi.md`
+2. **Pride Sunrise** -> `pride_sunrise.md`
+3. **Sobha Magnus** -> `sobha_magnus.md`
 
-### South Bangalore Apartments
+### Bellandur Apartments
 
-22. **Lodha Heaven** → `lodha_heaven.md`
+1. **DNR Arista** -> `dnr_arista.md`
+2. **DNR Reflection** -> `dnr_reflection.md`
+
+### Bhartiya City Apartments
+
+1. **Nikoo Homes** -> `nikoo_homes.md`
+
+### Chikkagubbi Village Apartments
+
+1. **DSR Casablanca** -> `dsr_casablanca.md`
+
+### Choodasandra Circle Apartments
+
+1. **Lodha Heaven** -> `lodha_heaven.md`
+
+### Devanahalli Apartments
+
+1. **Birla Trimaya** -> `birla_trimaya.md`
+2. **DS Max Skycity** -> `ds_max_skycity.md`
+
+### Electronic City Apartments
+
+1. **Concorde Eleve** -> `concorde_eleve.md`
+
+### Frazer Town Apartments
+
+1. **HM Grandeur** -> `hm_grandeur.md`
+
+### Gunjur Palya Apartments
+
+1. **Orchid Life** -> `orchid_life.md`
+
+### Hiranandani Gardens Apartments
+
+1. **Hiranandani Torino** -> `hiranandani_torino.md`
+
+### Hopefarm Apartments
+
+1. **SBR One Residences** -> `sbr_one_residences.md`
+
+### Hoskote Apartments
+
+1. **Godrej Parkshire** -> `godrej_parkshire.md`
+
+### Hoskote / Sarakariguttahalli Apartments
+
+1. **Godrej Parkshire** -> `godrej_parkshire 1.md`
+
+### Hosur Road Apartments
+
+1. **Mahindra Zen** -> `mahindra_zen.md`
+
+### Indiranagar Apartments
+
+1. **Century Regalia** -> `century_regalia.md`
+
+### JP Nagar Apartments
+
+1. **NCC Lake Springs** -> `ncc_lake_springs.md`
+
+### Jakkur Apartments
+
+1. **HM Indigo** -> `hm_indigo.md`
+2. **Peninsula Heights** -> `peninsula_heights.md`
+
+### KR Puram Apartments
+
+1. **Venus Hydra** -> `venus_hydra.md`
+
+### Kogilu Main Road Apartments
+
+1. **Vajram Vivera** -> `vajram_vivera.md`
+
+### Malleshwaram Apartments
+
+1. **Mantri Centrium** -> `mantri_centrium.md`
+
+### Manyata Tech Park Road Apartments
+
+1. **Lodha Mirabelle** -> `lodha_mirabelle.md`
+
+### Marathahalli ORR / Whitefield Apartments
+
+1. **SOBHA Neopolis** -> `sobha_neopolis.md`
+
+### Nagondanahalli Apartments
+
+1. **Lorven Cascade Garden** -> `lorven_cascade_garden.md`
+
+### Old Madras Road Apartments
+
+1. **Brigade Citrine** -> `brigade_citrine.md`
+
+### Panathur Apartments
+
+1. **Trendsquares Akino** -> `trendsquares_akino.md`
+
+### Rachenahalli Apartments
+
+1. **TVS Isle of Trees** -> `tvs_isle_of_trees.md`
+
+### Rajajinagar Apartments
+
+1. **G Corp Mahalakshmi** -> `gcorp_mahalakshmi.md`
+2. **Phoenix Kessaku** -> `phoenix_kessaku.md`
+
+### Richmond Road Apartments
+
+1. **Century Renata** -> `century_renata.md`
+
+### Sarjapur Road Apartments
+
+1. **Birla Evara** -> `birla_evara.md`
+2. **Godrej Lakeside Orchard** -> `godrej_lakeside_orchard.md`
+3. **Nambiar District 25 (Phase 2)** -> `nambiar_district_25_phase_2.md`
+4. **Sobha Altair** -> `sobha_altair.md`
+
+### Shettigere Apartments
+
+1. **Godrej MSR City** -> `godrej_msr_city.md`
+
+### Siddapura Apartments
+
+1. **Sumadhura's Codename Tea & Twilight** -> `sumadhuras_tea_twilight.md`
+
+### Singasandra Apartments
+
+1. **Mahindra New Haven** -> `mahindra_new_haven.md`
+
+### Thanisandra Apartments
+
+1. **Purva Atmosphere** -> `purva_atmosphere.md`
+
+### Thanisandra Main Road Apartments
+
+1. **Concorde NEO** -> `concorde_neo.md`
+2. **Ranka Ankura** -> `ranka_ankura.md`
+
+### Tubarahalli Apartments
+
+1. **Sumadhura E-119** -> `sumadhura_e_119.md`
+
+### Varthur/Whitefield Road Apartments
+
+1. **Prestige Evergreen** -> `prestige_evergreen.md`
+
+### Whitefield Apartments
+
+1. **Assetz Meru & Meadow** -> `assetz_meru_meadow.md`
+2. **Brigade Avalon** -> `brigade_avalon.md`
+3. **DNR Highline** -> `dnr_highline.md`
+4. **DSR Elite** -> `dsr_elite.md`
+5. **Folium by Sumadhura Phase 4** -> `folium_by_sumadhura_phase_4.md`
+6. **Mahindra Blossom** -> `mahindra_blossom.md`
+7. **Mantri Blossom** -> `mantri_blossom.md`
+8. **Prestige Raintree Park** -> `prestige_raintree_park.md`
+9. **Serene Amara** -> `serene_amara.md`
+10. **Sumadhura Capitol Residences** -> `sumadhura_capitol_residences.md`
+
+### Yelahanka Apartments
+
+1. **Brigade Eternia** -> `brigade_eternia.md`
+
+### Yemalur Apartments
+
+1. **Divyasree 77 Life** -> `divyasree_77_life.md`
+
+### Yeshwanthpur Apartments
+
+1. **Godrej Tiara** -> `godrej_tiara.md`
 
 ---

@@ -226,17 +226,52 @@ Status definitions:
 
 ## VILLAS
 
-### East Bangalore Villas
+### Budigere Cross Villas
+1. **Konig Fortune County** -> `konig_fortune_county.md`
 
-1. **Adarsh Sanctuary Villa** → `adarsh_sanctuary_villa.md`
-2. **Trifecta Verde en Resplandor Phase 3** → `trifecta_verde_en_resplandor_phase_3.md`
-3. **Konig Fortune County** → `konig_fortune_county.md`
-4. **Alluri Avani Villa** → `alluri_avani_villa.md`
-5. **Nambiar Ellegenza Phase 2** → `nambiar_ellegenza_phase_2_villas.md`
-6. **Riviera Uno** → `riviera_uno_villas.md`
+### Chikkagubbi Village Villas
+1. **DSR Casablanca** -> `dsr_casablanca.md`
 
-### North Bangalore Villas
+### Devanahalli Villas
+1. **Brigade Cherry** -> `brigade_cherry.md`
+2. **Brigade Enclave** -> `brigade_enclave.md`
 
-7. **NCC Urban Retreat** → `ncc_urban_retreat_villas.md`
+### Doddaballapur Road Villas
+1. **Prestige Dew Drops** -> `prestige_dew_drops.md`
+
+### Hennur Road Villas
+1. **Pride Euphora** -> `pride_euphora.md`
+
+### Kaggalipura Villas
+1. **Nambiar Ellegenza Phase 2** -> `nambiar_ellegenza_phase_2_villas.md`
+
+### Kammasandra Villas
+1. **Alluri Avani Villa** -> `alluri_avani_villa.md`
+
+### Kanakapura Road Villas
+1. **Mantri Courtyard** -> `mantri_courtyard.md`
+
+### Kyalasanahalli Villas
+1. **NCC Urban Retreat** -> `ncc_urban_retreat_villas.md`
+
+### Old Airport Road Villas
+1. **Embassy Grove** -> `embassy_grove.md`
+
+### Sarjapur Road Villas
+1. **Adarsh Sanctuary Villa** -> `adarsh_sanctuary_villa.md`
+2. **Arvind Forest Trails** -> `arvind_forest_trails.md`
+3. **Assetz Melodies of Life** -> `assetz_melodies_of_life.md`
+4. **Cornerstone Campan Valley** -> `cornerstone_campan_valley.md`
+5. **Divyasree Base Camp** -> `divyasree_base_camp.md`
+
+### Soukya Road Villas
+1. **Riviera Uno** -> `riviera_uno_villas.md`
+
+### Whitefield Villas
+1. **Trifecta Verde en Resplandor Phase 3** -> `trifecta_verde_en_resplandor_phase_3.md`
+
+### Yelahanka Villas
+1. **Casagrand Promenade** -> `casagrand_promenade.md`
+2. **Prestige Woodside** -> `prestige_woodside.md`
 
 ---

@@ -220,8 +220,9 @@ Status definitions:
 - Nearby possession
 
 ## FARMLANDS
-### North Bangalore Farmland
-1. **Green Siri Farmland** → `green_siri_farmland.md`
-   - Location: Yelahanka | Price: ₹25 Lakhs onwards | Under Construction 
-2. **Hebbevu Farmland** → `hebbevu_farmland.md`
-   - Location: Huskur | Price: ₹18 Lakhs onwards | Nearby possession
+
+### Huskur Farmlands
+1. **Hebbevu Farmland** -> `hebbevu_farmland.md`
+
+### Yelahanka Farmlands
+1. **Green Siri Farmland** -> `green_siri_farmland.md`
