@@ -15,7 +15,7 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/gcorp_mahalakshmi1.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/gcorp_mahalakshmi2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/gcorp_mahalakshmi3.jpg
-
+```
 
 # G Corp Mahalakshmi
 

@@ -15,7 +15,7 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/mahindra_zen1.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/mahindra_zen2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/mahindra_zen3.jpg
-
+```
 
 # Mahindra Zen
 

@@ -15,6 +15,7 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/dnr_arista1.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/dnr_arista2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/dnr_arista3.jpg
+```
 
 # DNR Arista
 

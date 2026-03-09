@@ -15,7 +15,7 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/pride_sunrise1.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/pride_sunrise2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/pride_sunrise3.jpg
-
+```
 
 # Pride Sunrise
 

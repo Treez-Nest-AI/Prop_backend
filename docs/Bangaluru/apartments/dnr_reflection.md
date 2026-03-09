@@ -15,7 +15,7 @@ images:
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/dnr_reflection1.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/dnr_reflection2.jpg
   - https://propertyinfo-treez.s3.ap-south-1.amazonaws.com/Images/benagluru/dnr_reflection3.jpg
-
+```
 
 # DNR Reflection
 

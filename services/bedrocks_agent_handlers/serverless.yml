@@ -1,6 +1,6 @@
 service: bedrocks-agent-handlers
 
-frameworkVersion: '3'
+frameworkVersion: "3"
 
 provider:
   name: aws
@@ -9,8 +9,8 @@ provider:
   stage: ${opt:stage, 'dev'}
   # role: arn:aws:iam::344961840420:role/sharepost-role
   environment:
-    AGENT_ID: 'HH0EZLKXD9'
-    AGENT_ALIAS_ID: '5TZ9NQ38JY'
+    AGENT_ID: "HH0EZLKXD9"
+    AGENT_ALIAS_ID: "S1IQHEEGKR"
   iam:
     role:
       statements:
@@ -33,7 +33,7 @@ functions:
           path: /prop-agent/invoke
           method: post
           cors:
-            origin: '*'
+            origin: "*"
             headers:
               - Content-Type
               - X-Amz-Date
@@ -45,7 +45,7 @@ functions:
           path: /prop-agent/invoke
           method: get
           cors:
-            origin: '*'
+            origin: "*"
             headers:
               - Content-Type
               - X-Amz-Date
@@ -57,7 +57,7 @@ functions:
           path: /prop-agent/invoke
           method: options
           cors:
-            origin: '*'
+            origin: "*"
             headers:
               - Content-Type
               - X-Amz-Date
@@ -76,7 +76,7 @@ functions:
           path: /prop-agent/gemini/chat
           method: post
           cors:
-            origin: '*'
+            origin: "*"
             headers:
               - Content-Type
               - Accept
@@ -91,7 +91,7 @@ functions:
           path: /prop-agent/gemini/chat
           method: options
           cors:
-            origin: '*'
+            origin: "*"
             headers:
               - Content-Type
               - Accept
@@ -109,4 +109,3 @@ plugins:
 custom:
   serverless-offline:
     httpPort: 3000
-
