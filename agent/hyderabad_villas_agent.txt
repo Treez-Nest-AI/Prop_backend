@@ -224,39 +224,29 @@ Status:
 
 ## VILLAS
 
-### West Hyderabad Villas
+### Bachupally Villas
+1. **Praneeta Amity Villas** → `praneeta_amity_villas.md`
 
-1. **Anithara Aura Villas** → `anithara_aura_villas.md`
-   - Location: Isnapur / Patancheru | Config: 3 BHK Villas | Price: ₹1.16 Cr onwards | Under Construction
+### Financial District Villas
+1. **Rajapushpa Serene Dale** → `rajapushpa_serene_dale.md` (Financial District / Kokapet)
 
-2. **Bellagio at The Prestige City** → `bellagio_at_the_prestige_city_villas.md`
-   - Location: Rajendra Nagar | Config: 5 BHK Villas | Price: ₹11 Cr onwards | Under Construction
+### Kokapet Villas
+1. **Cybercity Villa Verde** → `cybercity_villa_verde.md`
+2. **Hallmark Floresta** → `hallmark_floresta.md`
 
-3. **Cybercity Villa Verde** → `cybercity_villa_verde.md`
-   - Location: Kokapet | Config: 4, 5 BHK Villas | Price: ₹4.50 Cr onwards | Under Construction
+### Korremula Villas
+1. **The Spectrum by Ramky** → `the_spectrum_by_ramky 1.md` (East Hyderabad)
 
-4. **Hallmark Floresta** → `hallmark_floresta.md`
-   - Location: Kokapet | Config: 4, 5 BHK Villas | Price: ₹4.50 Cr onwards | Under Construction
+### Patancheru Villas
+1. **Anithara Aura Villas** → `anithara_aura_villas.md` (Isnapur / Patancheru)
 
-5. **Indis Myra Villas** → `indis_myra_villas.md`
-   - Location: Tellapur | Config: 4, 5 BHK Villas | Price: ₹3.50 Cr onwards | Under Construction
+### Rajendra Nagar Villas
+1. **Bellagio at The Prestige City** → `bellagio_at_the_prestige_city_villas.md`
 
-6. **Konak Villas** → `konak_villas.md`
-   - Location: Tellapur / Kokapet Belt | Config: 4, 5 BHK Villas | Price: ₹4.95 Cr onwards | Under Construction
+### Tellapur Villas
+1. **Indis Myra Villas** → `indis_myra_villas.md`
+2. **Konak Villas** → `konak_villas.md` (Tellapur / Kokapet Belt)
 
-7. **Lucent Villas** → `lucent_villas.md`
-   - Location: Hyderabad | Config: 4 BHK Villas | Price: ₹6.75 Cr onwards | Under Construction
-
-8. **Orchid by Raichandani** → `orchid_by_raichandani.md`
-   - Location: West Hyderabad | Config: 4, 5 BHK Villas | Price: ₹3.52 Cr onwards | Under Construction
-
-9. **Praneeta Amity Villas** → `praneeta_amity_villas.md`
-   - Location: Bachupally | Config: 4, 5 BHK Villas | Price: ₹2.96 Cr onwards | Under Construction
-
-10. **Rajapushpa Serene Dale** → `rajapushpa_serene_dale.md`
-    - Location: Financial District / Kokapet | Config: 4, 5 BHK Villas | Price: ₹4.50 Cr onwards | Under Construction
-
-### East Hyderabad Villas
-
-11. **The Spectrum by Ramky** → `the_spectrum_by_ramky_1.md`
-    - Location: Korremula | Config: 4 BHK Triplex Villas | Price: ₹1.95 Cr onwards | Under Construction
+### Other Villas
+1. **Lucent Villas** → `lucent_villas.md` (Location: Hyderabad)
+2. **Orchid by Raichandani** → `orchid_by_raichandani.md` (Location: West Hyderabad)

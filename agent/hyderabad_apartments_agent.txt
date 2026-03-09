@@ -226,36 +226,54 @@ Status:
 
 ## APARTMENTS
 
-### West Hyderabad Apartments
+### Bachupally Apartments
+1. **Sukhii Ubuntu** → `sukhii_ubuntu.md`
 
+### Financial District Apartments
+1. **Pacifica Hillcrest Phase 2** → `pacifica_hillcrest_phase_2.md`
+2. **Prestige Vaishnaoi Rainbow Waters** → `prestige_vaishnaoi_rainbow_waters.md`
+3. **The Olympus by Sumadhura** → `the_olympus_by_sumadhura_1.md`
+
+### Gachibowli Apartments
+1. **ASBL Loft** → `asbl_loft.md`
+
+### Kokapet Apartments
+1. **Brigade Gateway** → `brigade_gateway 1.md`
+2. **Cybercity Stone Ridge** → `cybercity_stone_ridge.md`
+3. **Godrej Madison Avenue** → `godrej_madison_avenue 1.md`
+4. **Hallmark Treasor** → `hallmark_treasor.md` (Kokapet / Narsingi)
+5. **Prestige Clairemont** → `prestige_clairemont.md` (Neopolis)
+6. **Rajapushpa Casa Luxura** → `rajapushpa_casa_luxura.md`
+7. **Rajapushpa Pristinia** → `rajapushpa_pristinia.md`
+
+### Kondapur Apartments
 1. **Anvita High 9** → `anvita_high_9.md`
-2. **ASBL Loft** → `asbl_loft.md`
-3. **Brigade Gateway** → `brigade_gateway_1.md`
-4. **Candeur Crescent** → `candeur_crescent_1.md`
-5. **Candeur Lakescape** → `candeur_lakescape.md`
-6. **Candeur Skyline** → `candeur_skyline_1.md`
-7. **Casagrand Windsor Court** → `casagrand_windsor_court.md`
-8. **Cybercity Stone Ridge** → `cybercity_stone_ridge.md`
-9. **Godrej Madison Avenue** → `godrej_madison_avenue_1.md`
-10. **Godrej Regal Pavilion** → `godrej_regal_pavilion_1.md`
-11. **Hallmark Treasor** → `hallmark_treasor.md`
-12. **Pacifica Hillcrest Phase 2** → `pacifica_hillcrest_phase_2.md`
-13. **Prestige Clairemont** → `prestige_clairemont.md`
-14. **Prestige Vaishnaoi Rainbow Waters** → `prestige_vaishnaoi_rainbow_waters.md`
-15. **Rajapushpa Casa Luxura** → `rajapushpa_casa_luxura.md`
-16. **Rajapushpa Imperia** → `rajapushpa_imperia.md`
-17. **Rajapushpa Pristinia** → `rajapushpa_pristinia.md`
-18. **Rajapushpa Provincia** → `rajapushpa_provincia.md`
-19. **Ramky One Odyssey** → `ramky_one_odyssey.md`
-20. **RV Vibhavam** → `rv_vibhavam.md`
-21. **Solitaire Unity** → `solitaire_unity.md`
-22. **Srias IWA** → `srias_iwa.md`
-23. **Sukhii Ubuntu** → `sukhii_ubuntu.md`
-24. **Sumadhura Gardens By The Brook Phase 2** → `sumadhura_gardens_by_the_brook_phase_2_1.md`
-25. **Sumadhura Palais Royale** → `sumadhura_palais_royale_1.md`
-26. **Sunrise Orchard** → `sunrise_orchard.md`
-27. **The Olympus by Sumadhura** → `the_olympus_by_sumadhura_1.md`
+2. **Candeur Lakescape** → `candeur_lakescape.md`
+3. **RV Vibhavam** → `rv_vibhavam.md`
+4. **Solitaire Unity** → `solitaire_unity.md`
+5. **Srias IWA** → `srias_iwa.md`
 
-### South Hyderabad Apartments
+### Narsingi Apartments
+1. **Rajapushpa Provincia** → `rajapushpa_provincia.md`
+2. **Ramky One Odyssey** → `ramky_one_odyssey.md`
 
-28. **The Prestige City** → `the_prestige_city_1.md`
+### Puppalaguda Apartments
+1. **Candeur Skyline** → `candeur_skyline 1.md`
+2. **Sumadhura Palais Royale** → `sumadhura_palais_royale 1.md`
+
+### Rajendra Nagar Apartments
+1. **Godrej Regal Pavilion** → `godrej_regal_pavilion 1.md`
+2. **The Prestige City** → `the_prestige_city 1.md` (Budvel)
+
+### Serilingampally Apartments
+1. **Candeur Crescent** → `candeur_crescent 1.md`
+
+### Shamshabad Apartments
+1. **Sumadhura Gardens By The Brook Phase 2** → `sumadhura_gardens_by_the_brook_phase_2 1.md` (Gaganpahad)
+
+### Tellapur Apartments
+1. **Casagrand Windsor Court** → `casagrand_windsor_court.md`
+2. **Rajapushpa Imperia** → `rajapushpa_imperia.md`
+
+### Other Apartments
+1. **Sunrise Orchard** → `sunrise_orchard.md` (Location: Hyderabad)
