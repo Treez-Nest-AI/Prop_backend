@@ -1,6 +1,7 @@
 service: lead-service
 
 frameworkVersion: '3'
+
 provider:
   name: aws
   runtime: nodejs18.x
@@ -10,6 +11,8 @@ provider:
 
   environment:
     POSTGRE_URI: ${ssm:/db/neon/prop_uri}
+    EMAIL_USER: "sales@treezenterprise.com"
+    EMAIL_PASS: "ihzf fijo lxdp uked"
 
 functions:
   createLead:
