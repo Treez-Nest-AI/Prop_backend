@@ -1,0 +1,13 @@
+service: auth-handlers-module
+
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ${opt:region, 'ap-south-1'}
+  stage: ${opt:stage, 'dev'}
+  # role: arn:aws:iam::344961840420:role/sharepost-role
+  environment:
+    MSG91_AUTH_KEY: '493585AF42FcJD7698c00a8P1'
+    MSG91_TEMPLATE_ID: '69a90aee09813511790b5a22'
